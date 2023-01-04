@@ -1,6 +1,6 @@
 # project-da-promo-c-modulo-2-team-3
 
-Martes 3 de enero
+**Martes 3 de enero**
 
 Después del sprint decidimos escribir un read en el eu resumimos lo que hemos avanzado durante el día y lo que vamos a hacer el siguiente.
 
