@@ -1,0 +1,1205 @@
+,edad,genero,pais,años_programando,salario_anual,sector_trabajo_actual,puesto_trabajo,rango_salario_minimo,rango_salario_maximo,continente
+76,50-54,Man,United States of America,20+ years,"300,000-499,999",Computers/Technology,Data Engineer,300000.0,499999.0,America
+80,35-39,Man,United States of America,10-20 years,"200,000-249,999",Medical/Pharmaceutical,Research Scientist,200000.0,249999.0,America
+89,55-59,Man,United States of America,20+ years,"125,000-149,999",Other,Software Engineer,125000.0,149999.0,America
+121,70+,Man,United States of America,3-5 years,"250,000-299,999",Energy/Mining,Other,250000.0,299999.0,America
+158,30-34,Man,Singapore,5-10 years,"125,000-149,999",Insurance/Risk Assessment,Data Scientist,125000.0,149999.0,Asia
+167,45-49,Man,Austria,5-10 years,"125,000-149,999",Insurance/Risk Assessment,Business Analyst,125000.0,149999.0,Europa
+184,30-34,Man,United States of America,10-20 years,"250,000-299,999",Online Business/Internet-based Sales,Data Scientist,250000.0,299999.0,America
+191,55-59,Man,United States of America,20+ years,"200,000-249,999",Broadcasting/Communications,Data Scientist,200000.0,249999.0,America
+239,50-54,Man,Japan,20+ years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,Asia
+283,50-54,Man,United States of America,20+ years,"250,000-299,999",Retail/Sales,Software Engineer,250000.0,299999.0,America
+285,45-49,Woman,Singapore,10-20 years,"125,000-149,999",Military/Security/Defense,Research Scientist,125000.0,149999.0,Asia
+287,35-39,Woman,United States of America,10-20 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+354,30-34,Man,United States of America,5-10 years,"150,000-199,999",Insurance/Risk Assessment,Data Scientist,150000.0,199999.0,America
+397,50-54,Man,United States of America,20+ years,"150,000-199,999",Energy/Mining,Product Manager,150000.0,199999.0,America
+434,25-29,Man,India,1-3 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,Asia
+446,30-34,Man,United States of America,10-20 years,"150,000-199,999",Online Service/Internet-based Services,Program/Project Manager,150000.0,199999.0,America
+454,25-29,Man,United States of America,< 1 years,"125,000-149,999",Computers/Technology,Data Analyst,125000.0,149999.0,America
+457,35-39,Man,United States of America,10-20 years,"125,000-149,999",Computers/Technology,Data Analyst,125000.0,149999.0,America
+488,30-34,Man,United States of America,5-10 years,"125,000-149,999",Insurance/Risk Assessment,Data Scientist,125000.0,149999.0,America
+505,60-69,Man,United States of America,1-3 years,"150,000-199,999",Accounting/Finance,Other,150000.0,199999.0,America
+513,35-39,Woman,United States of America,3-5 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,America
+515,22-24,Man,Kenya,1-3 years,"150,000-199,999",Computers/Technology,Data Engineer,150000.0,199999.0,Africa
+517,50-54,Man,United Kingdom of Great Britain and Northern Ireland,20+ years,"250,000-299,999",Energy/Mining,Research Scientist,250000.0,299999.0,Europa
+524,35-39,Man,United States of America,10-20 years,"250,000-299,999",Accounting/Finance,Software Engineer,250000.0,299999.0,America
+527,55-59,Man,United States of America,20+ years,"150,000-199,999",Government/Public Service,Data Engineer,150000.0,199999.0,America
+556,35-39,Man,Australia,< 1 years,"250,000-299,999",Medical/Pharmaceutical,Other,250000.0,299999.0,Oceania
+630,55-59,Man,Australia,20+ years,"150,000-199,999",Energy/Mining,Other,150000.0,199999.0,Oceania
+647,30-34,Man,United States of America,10-20 years,"200,000-249,999",Online Service/Internet-based Services,Data Scientist,200000.0,249999.0,America
+648,55-59,Man,United States of America,I have never written code,"300,000-499,999",Medical/Pharmaceutical,Other,300000.0,499999.0,America
+658,70+,Man,Italy,20+ years,">$1,000,000",Marketing/CRM,Developer Relations/Advocacy,1000000.0,1000000.0,Europa
+698,45-49,Man,Australia,10-20 years,"125,000-149,999",Computers/Technology,Program/Project Manager,125000.0,149999.0,Oceania
+705,60-69,Man,United States of America,20+ years,"125,000-149,999",Government/Public Service,Machine Learning Engineer,125000.0,149999.0,America
+711,50-54,Man,United States of America,20+ years,"150,000-199,999",Accounting/Finance,DBA/Database Engineer,150000.0,199999.0,America
+737,50-54,Man,United States of America,20+ years,"300,000-499,999",Accounting/Finance,Data Engineer,300000.0,499999.0,America
+741,45-49,Prefer not to say,United States of America,20+ years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+743,40-44,Man,United States of America,5-10 years,"150,000-199,999",Online Service/Internet-based Services,Machine Learning Engineer,150000.0,199999.0,America
+745,55-59,Man,United States of America,20+ years,"$500,000-999,999",Accounting/Finance,Data Scientist,500000.0,999999.0,America
+749,45-49,Man,United States of America,20+ years,"250,000-299,999",Other,Other,250000.0,299999.0,America
+859,40-44,Man,Japan,1-3 years,"125,000-149,999",Accounting/Finance,Other,125000.0,149999.0,Asia
+885,30-34,Woman,United Kingdom of Great Britain and Northern Ireland,1-3 years,"125,000-149,999",Computers/Technology,Business Analyst,125000.0,149999.0,Europa
+895,35-39,Man,United States of America,3-5 years,"150,000-199,999",Computers/Technology,Product Manager,150000.0,199999.0,America
+906,35-39,Man,United States of America,5-10 years,"250,000-299,999",Accounting/Finance,Research Scientist,250000.0,299999.0,America
+937,35-39,Man,United States of America,5-10 years,"200,000-249,999",Computers/Technology,Machine Learning Engineer,200000.0,249999.0,America
+968,45-49,Man,United States of America,20+ years,"200,000-249,999",Accounting/Finance,Other,200000.0,249999.0,America
+979,25-29,Woman,India,< 1 years,"200,000-249,999",Computers/Technology,Data Analyst,200000.0,249999.0,Asia
+1025,35-39,Man,Israel,20+ years,"150,000-199,999",Computers/Technology,Research Scientist,150000.0,199999.0,Asia
+1068,25-29,Man,India,I have never written code,"250,000-299,999",Manufacturing/Fabrication,Other,250000.0,299999.0,Asia
+1076,40-44,Man,India,1-3 years,"200,000-249,999",Medical/Pharmaceutical,Other,200000.0,249999.0,Asia
+1087,35-39,Man,India,10-20 years,"125,000-149,999",Accounting/Finance,Developer Relations/Advocacy,125000.0,149999.0,Asia
+1129,50-54,Man,United States of America,10-20 years,"300,000-499,999",Accounting/Finance,Research Scientist,300000.0,499999.0,America
+1214,22-24,Man,Other,3-5 years,"300,000-499,999",Academics/Education,Data Scientist,300000.0,499999.0,Otros
+1218,55-59,Man,United States of America,20+ years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,America
+1262,30-34,Man,Australia,10-20 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,Oceania
+1263,25-29,Man,Turkey,3-5 years,"150,000-199,999",Computers/Technology,Software Engineer,150000.0,199999.0,Asia
+1280,45-49,Man,United States of America,10-20 years,"150,000-199,999",Manufacturing/Fabrication,Data Scientist,150000.0,199999.0,America
+1314,55-59,Man,United States of America,10-20 years,"200,000-249,999",Academics/Education,Research Scientist,200000.0,249999.0,America
+1322,30-34,Man,United States of America,5-10 years,"200,000-249,999",Computers/Technology,Data Scientist,200000.0,249999.0,America
+1373,25-29,Man,United States of America,5-10 years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,America
+1427,45-49,Woman,India,5-10 years,"250,000-299,999",Computers/Technology,Other,250000.0,299999.0,Asia
+1496,40-44,Man,United States of America,10-20 years,"300,000-499,999",Computers/Technology,Data Scientist,300000.0,499999.0,America
+1516,45-49,Woman,United States of America,20+ years,"200,000-249,999",Medical/Pharmaceutical,Statistician,200000.0,249999.0,America
+1533,60-69,Man,Japan,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Other,150000.0,199999.0,Asia
+1538,45-49,Man,Switzerland,20+ years,"200,000-249,999",Online Service/Internet-based Services,Other,200000.0,249999.0,Europa
+1547,60-69,Man,United States of America,20+ years,"150,000-199,999",Military/Security/Defense,Business Analyst,150000.0,199999.0,America
+1554,45-49,Man,Spain,1-3 years,"125,000-149,999",Hospitality/Entertainment/Sports,Data Engineer,125000.0,149999.0,Europa
+1568,35-39,Man,India,10-20 years,"150,000-199,999",Academics/Education,Business Analyst,150000.0,199999.0,Asia
+1573,50-54,Man,United States of America,20+ years,"200,000-249,999",Computers/Technology,Machine Learning Engineer,200000.0,249999.0,America
+1587,50-54,Man,United States of America,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Program/Project Manager,150000.0,199999.0,America
+1611,35-39,Man,India,10-20 years,"125,000-149,999",Accounting/Finance,Program/Project Manager,125000.0,149999.0,Asia
+1624,35-39,Man,Other,20+ years,"125,000-149,999",Energy/Mining,Data Scientist,125000.0,149999.0,Otros
+1625,50-54,Man,United States of America,20+ years,"200,000-249,999",Academics/Education,Data Scientist,200000.0,249999.0,America
+1648,50-54,Man,United States of America,3-5 years,"250,000-299,999",Online Service/Internet-based Services,Data Scientist,250000.0,299999.0,America
+1650,40-44,Man,United States of America,3-5 years,"150,000-199,999",Other,Data Scientist,150000.0,199999.0,America
+1661,25-29,Man,India,3-5 years,"150,000-199,999",Online Business/Internet-based Sales,Machine Learning Engineer,150000.0,199999.0,Asia
+1688,40-44,Man,Canada,10-20 years,"125,000-149,999",Accounting/Finance,Data Scientist,125000.0,149999.0,America
+1710,30-34,Man,United States of America,10-20 years,"125,000-149,999",Medical/Pharmaceutical,Machine Learning Engineer,125000.0,149999.0,America
+1742,40-44,Man,Japan,< 1 years,"125,000-149,999",Manufacturing/Fabrication,Other,125000.0,149999.0,Asia
+1750,35-39,Man,United States of America,20+ years,"300,000-499,999",Accounting/Finance,Software Engineer,300000.0,499999.0,America
+1759,35-39,Man,United States of America,20+ years,"150,000-199,999",Other,Data Engineer,150000.0,199999.0,America
+1783,50-54,Woman,United States of America,10-20 years,"150,000-199,999",Retail/Sales,Product Manager,150000.0,199999.0,America
+1815,55-59,Man,United States of America,20+ years,"150,000-199,999",Medical/Pharmaceutical,Data Scientist,150000.0,199999.0,America
+1831,55-59,Man,United States of America,20+ years,">$1,000,000",Computers/Technology,Data Scientist,1000000.0,1000000.0,America
+1879,50-54,Man,United Kingdom of Great Britain and Northern Ireland,5-10 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,Europa
+1899,55-59,Man,Japan,3-5 years,"150,000-199,999",Medical/Pharmaceutical,Other,150000.0,199999.0,Asia
+1914,45-49,Man,Denmark,20+ years,"125,000-149,999",Computers/Technology,Program/Project Manager,125000.0,149999.0,Europa
+1923,25-29,Prefer not to say,Other,10-20 years,"250,000-299,999",Computers/Technology,Research Scientist,250000.0,299999.0,Otros
+1929,55-59,Man,Australia,20+ years,"$500,000-999,999",Other,Other,500000.0,999999.0,Oceania
+1975,35-39,Man,Japan,5-10 years,">$1,000,000",Manufacturing/Fabrication,Data Scientist,1000000.0,1000000.0,Asia
+1987,22-24,Man,Pakistan,1-3 years,">$1,000,000",Energy/Mining,Other,1000000.0,1000000.0,Asia
+2006,40-44,Man,United States of America,10-20 years,"300,000-499,999",Computers/Technology,Other,300000.0,499999.0,America
+2014,35-39,Man,Russia,10-20 years,"125,000-149,999",Accounting/Finance,Program/Project Manager,125000.0,149999.0,Asia
+2060,55-59,Man,United States of America,20+ years,"125,000-149,999",Manufacturing/Fabrication,Data Scientist,125000.0,149999.0,America
+2087,40-44,Man,France,10-20 years,">$1,000,000",Computers/Technology,Program/Project Manager,1000000.0,1000000.0,Europa
+2149,55-59,Woman,United States of America,3-5 years,"150,000-199,999",Government/Public Service,Other,150000.0,199999.0,America
+2167,30-34,Man,Sweden,I have never written code,"125,000-149,999",Online Service/Internet-based Services,Product Manager,125000.0,149999.0,Europa
+2178,35-39,Man,Russia,3-5 years,"150,000-199,999",Accounting/Finance,Product Manager,150000.0,199999.0,Asia
+2179,35-39,Man,United States of America,10-20 years,"150,000-199,999",Government/Public Service,Data Scientist,150000.0,199999.0,America
+2190,45-49,Man,United Kingdom of Great Britain and Northern Ireland,20+ years,"125,000-149,999",Broadcasting/Communications,Data Scientist,125000.0,149999.0,Europa
+2213,30-34,Man,United States of America,10-20 years,"200,000-249,999",Accounting/Finance,Data Scientist,200000.0,249999.0,America
+2217,40-44,Man,United States of America,3-5 years,"150,000-199,999",Military/Security/Defense,Other,150000.0,199999.0,America
+2232,50-54,Man,United States of America,20+ years,"250,000-299,999",Computers/Technology,Research Scientist,250000.0,299999.0,America
+2242,60-69,Man,United States of America,20+ years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,America
+2252,40-44,Man,Nigeria,1-3 years,"150,000-199,999",Energy/Mining,Other,150000.0,199999.0,Africa
+2270,60-69,Man,United States of America,20+ years,"125,000-149,999",Military/Security/Defense,Research Scientist,125000.0,149999.0,America
+2290,40-44,Man,Switzerland,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Program/Project Manager,150000.0,199999.0,Europa
+2299,40-44,Man,United States of America,10-20 years,"150,000-199,999",Online Business/Internet-based Sales,Data Scientist,150000.0,199999.0,America
+2360,45-49,Man,Switzerland,20+ years,"200,000-249,999",Accounting/Finance,Program/Project Manager,200000.0,249999.0,Europa
+2382,50-54,Man,United States of America,5-10 years,"125,000-149,999",Other,Research Scientist,125000.0,149999.0,America
+2435,35-39,Woman,United States of America,10-20 years,"$500,000-999,999",Hospitality/Entertainment/Sports,Machine Learning Engineer,500000.0,999999.0,America
+2436,30-34,Man,United States of America,10-20 years,"200,000-249,999",Computers/Technology,Machine Learning Engineer,200000.0,249999.0,America
+2438,45-49,Man,United States of America,5-10 years,"125,000-149,999",Accounting/Finance,DBA/Database Engineer,125000.0,149999.0,America
+2440,40-44,Man,Israel,3-5 years,"125,000-149,999",Manufacturing/Fabrication,Data Scientist,125000.0,149999.0,Asia
+2447,30-34,Nonbinary,United States of America,3-5 years,"150,000-199,999",Computers/Technology,Research Scientist,150000.0,199999.0,America
+2458,18-21,Prefer to self-describe,Other,5-10 years,"125,000-149,999",Computers/Technology,Machine Learning Engineer,125000.0,149999.0,Otros
+2489,30-34,Man,Nigeria,5-10 years,"150,000-199,999",Computers/Technology,Machine Learning Engineer,150000.0,199999.0,Africa
+2556,45-49,Man,Australia,20+ years,"200,000-249,999",Computers/Technology,Developer Relations/Advocacy,200000.0,249999.0,Oceania
+2557,60-69,Man,United States of America,20+ years,"150,000-199,999",Computers/Technology,Software Engineer,150000.0,199999.0,America
+2560,50-54,Man,South Africa,10-20 years,"200,000-249,999",Insurance/Risk Assessment,Data Scientist,200000.0,249999.0,Africa
+2587,30-34,Man,Poland,10-20 years,"125,000-149,999",Online Service/Internet-based Services,Machine Learning Engineer,125000.0,149999.0,Otros
+2599,55-59,Man,Other,20+ years,"125,000-149,999",Non-profit/Service,Research Scientist,125000.0,149999.0,Otros
+2605,60-69,Man,United States of America,20+ years,"150,000-199,999",Military/Security/Defense,Research Scientist,150000.0,199999.0,America
+2648,25-29,Man,Romania,5-10 years,"$500,000-999,999",Computers/Technology,Research Scientist,500000.0,999999.0,Europa
+2666,30-34,Woman,United States of America,5-10 years,"200,000-249,999",Computers/Technology,Data Scientist,200000.0,249999.0,America
+2669,45-49,Woman,United States of America,20+ years,"150,000-199,999",Government/Public Service,Program/Project Manager,150000.0,199999.0,America
+2734,45-49,Woman,United States of America,3-5 years,"150,000-199,999",Non-profit/Service,Data Scientist,150000.0,199999.0,America
+2777,60-69,Man,United States of America,20+ years,"250,000-299,999",Medical/Pharmaceutical,Product Manager,250000.0,299999.0,America
+2840,45-49,Man,United States of America,20+ years,"200,000-249,999",Computers/Technology,Machine Learning Engineer,200000.0,249999.0,America
+2875,30-34,Man,United States of America,3-5 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+2887,40-44,Woman,United States of America,10-20 years,"300,000-499,999",Computers/Technology,Research Scientist,300000.0,499999.0,America
+2888,35-39,Man,United States of America,3-5 years,"125,000-149,999",Accounting/Finance,Data Scientist,125000.0,149999.0,America
+2903,70+,Man,India,10-20 years,"200,000-249,999",Online Service/Internet-based Services,Research Scientist,200000.0,249999.0,Asia
+2905,60-69,Man,United States of America,10-20 years,"150,000-199,999",Computers/Technology,Program/Project Manager,150000.0,199999.0,America
+2908,60-69,Man,United States of America,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Software Engineer,150000.0,199999.0,America
+2910,50-54,Man,United States of America,20+ years,"200,000-249,999",Computers/Technology,Data Scientist,200000.0,249999.0,America
+2915,30-34,Man,China,10-20 years,"150,000-199,999",Computers/Technology,Machine Learning Engineer,150000.0,199999.0,Asia
+3027,50-54,Man,Switzerland,20+ years,"200,000-249,999",Other,Program/Project Manager,200000.0,249999.0,Europa
+3035,25-29,Man,China,1-3 years,"150,000-199,999",Computers/Technology,Machine Learning Engineer,150000.0,199999.0,Asia
+3060,35-39,Man,Germany,1-3 years,"125,000-149,999",Computers/Technology,Data Analyst,125000.0,149999.0,Europa
+3077,45-49,Man,France,20+ years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,Europa
+3084,50-54,Man,Canada,20+ years,"150,000-199,999",Accounting/Finance,Data Scientist,150000.0,199999.0,America
+3100,60-69,Man,United States of America,20+ years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+3179,50-54,Man,United States of America,< 1 years,"250,000-299,999",Academics/Education,Product Manager,250000.0,299999.0,America
+3243,45-49,Man,United States of America,10-20 years,"200,000-249,999",Insurance/Risk Assessment,Product Manager,200000.0,249999.0,America
+3284,50-54,Man,United States of America,20+ years,"125,000-149,999",Medical/Pharmaceutical,Software Engineer,125000.0,149999.0,America
+3288,35-39,Man,United States of America,10-20 years,"250,000-299,999",Marketing/CRM,Software Engineer,250000.0,299999.0,America
+3310,35-39,Man,United Kingdom of Great Britain and Northern Ireland,10-20 years,"150,000-199,999",Government/Public Service,Data Scientist,150000.0,199999.0,Europa
+3324,35-39,Man,United States of America,5-10 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+3349,35-39,Man,United States of America,10-20 years,"250,000-299,999",Broadcasting/Communications,Data Scientist,250000.0,299999.0,America
+3408,50-54,Man,United States of America,20+ years,"200,000-249,999",Computers/Technology,Research Scientist,200000.0,249999.0,America
+3444,55-59,Man,United States of America,20+ years,"150,000-199,999",Energy/Mining,DBA/Database Engineer,150000.0,199999.0,America
+3509,35-39,Man,United States of America,10-20 years,"150,000-199,999",Retail/Sales,Data Scientist,150000.0,199999.0,America
+3523,50-54,Man,United States of America,10-20 years,"200,000-249,999",Computers/Technology,Data Scientist,200000.0,249999.0,America
+3538,40-44,Man,United States of America,20+ years,"300,000-499,999",Computers/Technology,Product Manager,300000.0,499999.0,America
+3549,55-59,Man,United States of America,20+ years,"150,000-199,999",Broadcasting/Communications,Software Engineer,150000.0,199999.0,America
+3556,40-44,Man,United States of America,20+ years,">$1,000,000",Computers/Technology,Machine Learning Engineer,1000000.0,1000000.0,America
+3570,50-54,Man,United States of America,20+ years,"150,000-199,999",Retail/Sales,Data Scientist,150000.0,199999.0,America
+3578,35-39,Man,United States of America,5-10 years,"150,000-199,999",Insurance/Risk Assessment,Data Scientist,150000.0,199999.0,America
+3592,40-44,Man,Ireland,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Data Scientist,150000.0,199999.0,Europa
+3597,35-39,Man,China,20+ years,"125,000-149,999",Accounting/Finance,Software Engineer,125000.0,149999.0,Asia
+3603,45-49,Woman,Japan,< 1 years,"150,000-199,999",Other,Other,150000.0,199999.0,Asia
+3614,30-34,Man,Canada,10-20 years,"150,000-199,999",Accounting/Finance,Research Scientist,150000.0,199999.0,America
+3635,40-44,Man,United States of America,10-20 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,America
+3645,60-69,Man,Norway,20+ years,"125,000-149,999",Manufacturing/Fabrication,Business Analyst,125000.0,149999.0,Europa
+3697,50-54,Man,United States of America,20+ years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,America
+3704,45-49,Man,Netherlands,5-10 years,"125,000-149,999",Shipping/Transportation,Statistician,125000.0,149999.0,Europa
+3706,50-54,Man,United Kingdom of Great Britain and Northern Ireland,20+ years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,Europa
+3707,55-59,Man,Other,3-5 years,"125,000-149,999",Energy/Mining,Program/Project Manager,125000.0,149999.0,Otros
+3717,55-59,Man,Germany,20+ years,"125,000-149,999",Energy/Mining,Data Scientist,125000.0,149999.0,Europa
+3799,45-49,Man,Canada,10-20 years,"125,000-149,999",Government/Public Service,Research Scientist,125000.0,149999.0,America
+3802,40-44,Man,United States of America,3-5 years,"150,000-199,999",Computers/Technology,Machine Learning Engineer,150000.0,199999.0,America
+3829,60-69,Man,United States of America,I have never written code,"250,000-299,999",Insurance/Risk Assessment,Other,250000.0,299999.0,America
+3861,40-44,Man,United States of America,5-10 years,"250,000-299,999",Marketing/CRM,Data Scientist,250000.0,299999.0,America
+3986,50-54,Man,United States of America,20+ years,"300,000-499,999",Computers/Technology,Research Scientist,300000.0,499999.0,America
+4019,35-39,Man,United States of America,10-20 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+4033,60-69,Man,United States of America,20+ years,"125,000-149,999",Medical/Pharmaceutical,DBA/Database Engineer,125000.0,149999.0,America
+4040,40-44,Man,Switzerland,20+ years,"150,000-199,999",Accounting/Finance,Other,150000.0,199999.0,Europa
+4062,60-69,Man,United States of America,10-20 years,"150,000-199,999",Government/Public Service,DBA/Database Engineer,150000.0,199999.0,America
+4080,40-44,Man,Other,20+ years,"125,000-149,999",Accounting/Finance,Software Engineer,125000.0,149999.0,Otros
+4100,45-49,Man,United States of America,20+ years,"200,000-249,999",Computers/Technology,Software Engineer,200000.0,249999.0,America
+4142,70+,Man,Japan,20+ years,"250,000-299,999",Accounting/Finance,Program/Project Manager,250000.0,299999.0,Asia
+4188,22-24,Man,United States of America,1-3 years,"150,000-199,999",Accounting/Finance,Data Scientist,150000.0,199999.0,America
+4214,35-39,Man,United Kingdom of Great Britain and Northern Ireland,< 1 years,"125,000-149,999",Accounting/Finance,Other,125000.0,149999.0,Europa
+4232,30-34,Man,United States of America,3-5 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,America
+4305,50-54,Man,Singapore,20+ years,"250,000-299,999",Computers/Technology,Research Scientist,250000.0,299999.0,Asia
+4313,50-54,Man,United States of America,< 1 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+4317,35-39,Man,United States of America,10-20 years,"200,000-249,999",Insurance/Risk Assessment,Other,200000.0,249999.0,America
+4330,55-59,Man,Germany,10-20 years,"150,000-199,999",Energy/Mining,Data Scientist,150000.0,199999.0,Europa
+4332,25-29,Man,United States of America,10-20 years,"150,000-199,999",Computers/Technology,Software Engineer,150000.0,199999.0,America
+4346,70+,Man,Israel,20+ years,"300,000-499,999",Energy/Mining,Program/Project Manager,300000.0,499999.0,Asia
+4375,22-24,Woman,India,3-5 years,">$1,000,000",Computers/Technology,Software Engineer,1000000.0,1000000.0,Asia
+4424,60-69,Woman,United States of America,3-5 years,"125,000-149,999",Medical/Pharmaceutical,Data Analyst,125000.0,149999.0,America
+4453,50-54,Man,United States of America,20+ years,"150,000-199,999",Broadcasting/Communications,Software Engineer,150000.0,199999.0,America
+4473,50-54,Woman,United States of America,20+ years,"150,000-199,999",Insurance/Risk Assessment,Data Scientist,150000.0,199999.0,America
+4504,50-54,Man,Netherlands,20+ years,"125,000-149,999",Energy/Mining,Machine Learning Engineer,125000.0,149999.0,Europa
+4513,30-34,Man,India,3-5 years,"150,000-199,999",Medical/Pharmaceutical,Data Scientist,150000.0,199999.0,Asia
+4515,50-54,Woman,United States of America,10-20 years,"125,000-149,999",Retail/Sales,Statistician,125000.0,149999.0,America
+4519,45-49,Woman,Greece,10-20 years,"150,000-199,999",Insurance/Risk Assessment,Data Scientist,150000.0,199999.0,Europa
+4525,30-34,Man,India,I have never written code,"125,000-149,999",Retail/Sales,Product Manager,125000.0,149999.0,Asia
+4544,25-29,Man,United States of America,5-10 years,"125,000-149,999",Medical/Pharmaceutical,Statistician,125000.0,149999.0,America
+4558,45-49,Man,Norway,20+ years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,Europa
+4591,30-34,Woman,United States of America,5-10 years,"125,000-149,999",Marketing/CRM,Data Scientist,125000.0,149999.0,America
+4595,50-54,Man,United States of America,20+ years,"150,000-199,999",Broadcasting/Communications,Other,150000.0,199999.0,America
+4607,45-49,Man,United States of America,20+ years,"$500,000-999,999",Computers/Technology,Machine Learning Engineer,500000.0,999999.0,America
+4613,50-54,Man,United States of America,20+ years,"125,000-149,999",Retail/Sales,Data Engineer,125000.0,149999.0,America
+4615,45-49,Man,United States of America,10-20 years,"200,000-249,999",Government/Public Service,Program/Project Manager,200000.0,249999.0,America
+4629,50-54,Man,Germany,10-20 years,"200,000-249,999",Insurance/Risk Assessment,Business Analyst,200000.0,249999.0,Europa
+4640,25-29,Man,United States of America,3-5 years,"125,000-149,999",Military/Security/Defense,Machine Learning Engineer,125000.0,149999.0,America
+4657,35-39,Man,United States of America,10-20 years,"150,000-199,999",Online Service/Internet-based Services,Machine Learning Engineer,150000.0,199999.0,America
+4687,50-54,Man,United States of America,10-20 years,"200,000-249,999",Computers/Technology,Machine Learning Engineer,200000.0,249999.0,America
+4691,50-54,Man,United States of America,20+ years,"125,000-149,999",Government/Public Service,Product Manager,125000.0,149999.0,America
+4711,25-29,Man,United States of America,5-10 years,"150,000-199,999",Computers/Technology,Machine Learning Engineer,150000.0,199999.0,America
+4741,40-44,Man,United States of America,5-10 years,"150,000-199,999",Computers/Technology,Other,150000.0,199999.0,America
+4751,50-54,Woman,United Kingdom of Great Britain and Northern Ireland,20+ years,"150,000-199,999",Computers/Technology,Other,150000.0,199999.0,Europa
+4752,35-39,Nonbinary,United States of America,1-3 years,">$1,000,000",Accounting/Finance,Developer Relations/Advocacy,1000000.0,1000000.0,America
+4754,60-69,Man,United States of America,20+ years,"150,000-199,999",Insurance/Risk Assessment,Software Engineer,150000.0,199999.0,America
+4769,40-44,Man,India,10-20 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,Asia
+4770,25-29,Prefer not to say,United States of America,5-10 years,"300,000-499,999",Computers/Technology,Machine Learning Engineer,300000.0,499999.0,America
+4885,35-39,Man,Australia,10-20 years,"200,000-249,999",Computers/Technology,Other,200000.0,249999.0,Oceania
+4927,50-54,Woman,United States of America,20+ years,"150,000-199,999",Computers/Technology,DBA/Database Engineer,150000.0,199999.0,America
+4932,45-49,Man,United States of America,10-20 years,"150,000-199,999",Accounting/Finance,Data Engineer,150000.0,199999.0,America
+4949,70+,Man,Germany,20+ years,"125,000-149,999",Medical/Pharmaceutical,Program/Project Manager,125000.0,149999.0,Europa
+4960,25-29,Man,India,1-3 years,"300,000-499,999",Computers/Technology,Developer Relations/Advocacy,300000.0,499999.0,Asia
+5009,25-29,Man,United States of America,5-10 years,"125,000-149,999",Insurance/Risk Assessment,Data Scientist,125000.0,149999.0,America
+5023,45-49,Man,United Arab Emirates,3-5 years,"200,000-249,999",Computers/Technology,Program/Project Manager,200000.0,249999.0,Asia
+5030,30-34,Man,Netherlands,10-20 years,"250,000-299,999",Online Service/Internet-based Services,Research Scientist,250000.0,299999.0,Europa
+5035,22-24,Man,Nepal,< 1 years,">$1,000,000",Computers/Technology,Software Engineer,1000000.0,1000000.0,Asia
+5065,30-34,Man,United States of America,3-5 years,"125,000-149,999",Retail/Sales,Data Scientist,125000.0,149999.0,America
+5068,30-34,Man,Other,5-10 years,"200,000-249,999",Military/Security/Defense,Program/Project Manager,200000.0,249999.0,Otros
+5094,45-49,Man,United States of America,20+ years,"150,000-199,999",Accounting/Finance,Other,150000.0,199999.0,America
+5155,35-39,Man,Germany,< 1 years,"125,000-149,999",Computers/Technology,Data Analyst,125000.0,149999.0,Europa
+5159,22-24,Woman,United States of America,5-10 years,"125,000-149,999",Computers/Technology,Machine Learning Engineer,125000.0,149999.0,America
+5166,22-24,Woman,India,1-3 years,"300,000-499,999",Computers/Technology,Software Engineer,300000.0,499999.0,Asia
+5167,25-29,Man,United States of America,10-20 years,"125,000-149,999",Other,Software Engineer,125000.0,149999.0,America
+5168,40-44,Woman,United States of America,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Data Scientist,150000.0,199999.0,America
+5195,45-49,Man,United Kingdom of Great Britain and Northern Ireland,10-20 years,"150,000-199,999",Hospitality/Entertainment/Sports,Software Engineer,150000.0,199999.0,Europa
+5207,35-39,Man,United Kingdom of Great Britain and Northern Ireland,10-20 years,"150,000-199,999",Accounting/Finance,Other,150000.0,199999.0,Europa
+5214,35-39,Woman,United States of America,3-5 years,"150,000-199,999",Marketing/CRM,Product Manager,150000.0,199999.0,America
+5282,45-49,Man,United Kingdom of Great Britain and Northern Ireland,20+ years,">$1,000,000",Computers/Technology,Software Engineer,1000000.0,1000000.0,Europa
+5289,50-54,Man,United Kingdom of Great Britain and Northern Ireland,20+ years,"150,000-199,999",Government/Public Service,Product Manager,150000.0,199999.0,Europa
+5293,60-69,Man,United States of America,20+ years,"125,000-149,999",Insurance/Risk Assessment,Software Engineer,125000.0,149999.0,America
+5336,50-54,Man,"Iran, Islamic Republic of...",10-20 years,"125,000-149,999",Computers/Technology,Machine Learning Engineer,125000.0,149999.0,Asia
+5340,60-69,Man,United States of America,20+ years,"300,000-499,999",Academics/Education,Other,300000.0,499999.0,America
+5381,40-44,Man,Spain,5-10 years,"150,000-199,999",Retail/Sales,Other,150000.0,199999.0,Europa
+5398,55-59,Man,United States of America,20+ years,"125,000-149,999",Military/Security/Defense,Research Scientist,125000.0,149999.0,America
+5422,50-54,Man,United States of America,< 1 years,"125,000-149,999",Other,Other,125000.0,149999.0,America
+5443,35-39,Man,United States of America,5-10 years,"125,000-149,999",Computers/Technology,Program/Project Manager,125000.0,149999.0,America
+5446,25-29,Man,United States of America,3-5 years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,America
+5449,25-29,Man,Taiwan,1-3 years,"150,000-199,999",Computers/Technology,Machine Learning Engineer,150000.0,199999.0,Asia
+5454,30-34,Man,Israel,3-5 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,Asia
+5460,55-59,Man,Other,20+ years,"125,000-149,999",Shipping/Transportation,Other,125000.0,149999.0,Otros
+5478,35-39,Woman,United States of America,10-20 years,"150,000-199,999",Computers/Technology,Other,150000.0,199999.0,America
+5487,35-39,Man,United States of America,3-5 years,"150,000-199,999",Medical/Pharmaceutical,Data Analyst,150000.0,199999.0,America
+5501,35-39,Man,I do not wish to disclose my location,10-20 years,"250,000-299,999",Computers/Technology,Software Engineer,250000.0,299999.0,Otros
+5504,40-44,Man,United States of America,20+ years,"150,000-199,999",Retail/Sales,Other,150000.0,199999.0,America
+5508,40-44,Man,South Korea,1-3 years,">$1,000,000",Computers/Technology,Data Engineer,1000000.0,1000000.0,Asia
+5585,60-69,Man,United States of America,20+ years,"125,000-149,999",Academics/Education,Machine Learning Engineer,125000.0,149999.0,America
+5601,40-44,Man,Ireland,I have never written code,"150,000-199,999",Accounting/Finance,Program/Project Manager,150000.0,199999.0,Europa
+5604,45-49,Man,United States of America,1-3 years,"150,000-199,999",Energy/Mining,Other,150000.0,199999.0,America
+5675,30-34,Woman,United States of America,5-10 years,"125,000-149,999",Retail/Sales,Software Engineer,125000.0,149999.0,America
+5679,18-21,Man,India,1-3 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,Asia
+5682,30-34,Man,France,5-10 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,Europa
+5746,30-34,Man,United States of America,5-10 years,"125,000-149,999",Medical/Pharmaceutical,Business Analyst,125000.0,149999.0,America
+5859,50-54,Man,United States of America,20+ years,"$500,000-999,999",Computers/Technology,Product Manager,500000.0,999999.0,America
+5868,60-69,Man,United States of America,5-10 years,"150,000-199,999",Manufacturing/Fabrication,Software Engineer,150000.0,199999.0,America
+5904,50-54,Man,United Kingdom of Great Britain and Northern Ireland,20+ years,"150,000-199,999",Computers/Technology,Other,150000.0,199999.0,Europa
+5915,40-44,Man,United States of America,20+ years,"150,000-199,999",Government/Public Service,Research Scientist,150000.0,199999.0,America
+5919,50-54,Man,Australia,20+ years,"125,000-149,999",Computers/Technology,Machine Learning Engineer,125000.0,149999.0,Oceania
+5947,50-54,Man,United States of America,5-10 years,"200,000-249,999",Computers/Technology,Machine Learning Engineer,200000.0,249999.0,America
+5956,60-69,Man,United States of America,3-5 years,"125,000-149,999",Accounting/Finance,Other,125000.0,149999.0,America
+5960,45-49,Woman,Canada,20+ years,"150,000-199,999",Computers/Technology,Product Manager,150000.0,199999.0,America
+5969,60-69,Man,Australia,20+ years,"150,000-199,999",Government/Public Service,Data Scientist,150000.0,199999.0,Oceania
+6007,50-54,Man,United States of America,10-20 years,"125,000-149,999",Insurance/Risk Assessment,Data Scientist,125000.0,149999.0,America
+6019,25-29,Man,United States of America,5-10 years,"125,000-149,999",Military/Security/Defense,Other,125000.0,149999.0,America
+6036,70+,Man,United States of America,20+ years,"200,000-249,999",Other,Research Scientist,200000.0,249999.0,America
+6077,40-44,Man,United States of America,20+ years,"150,000-199,999",Accounting/Finance,Software Engineer,150000.0,199999.0,America
+6087,30-34,Man,United States of America,3-5 years,"125,000-149,999",Shipping/Transportation,Data Scientist,125000.0,149999.0,America
+6088,45-49,Woman,United States of America,< 1 years,"150,000-199,999",Medical/Pharmaceutical,Program/Project Manager,150000.0,199999.0,America
+6091,40-44,Man,United States of America,20+ years,"250,000-299,999",Government/Public Service,Software Engineer,250000.0,299999.0,America
+6094,35-39,Man,Norway,5-10 years,"125,000-149,999",Online Service/Internet-based Services,Data Scientist,125000.0,149999.0,Europa
+6153,45-49,Man,United States of America,1-3 years,"200,000-249,999",Energy/Mining,Business Analyst,200000.0,249999.0,America
+6160,50-54,Man,Israel,10-20 years,"300,000-499,999",Accounting/Finance,Data Scientist,300000.0,499999.0,Asia
+6204,45-49,Man,United States of America,20+ years,"125,000-149,999",Accounting/Finance,Business Analyst,125000.0,149999.0,America
+6205,35-39,Man,United States of America,10-20 years,"200,000-249,999",Insurance/Risk Assessment,Data Scientist,200000.0,249999.0,America
+6236,40-44,Man,Australia,5-10 years,"150,000-199,999",Accounting/Finance,Data Engineer,150000.0,199999.0,Oceania
+6247,50-54,Man,United States of America,20+ years,"150,000-199,999",Computers/Technology,Data Engineer,150000.0,199999.0,America
+6268,40-44,Man,France,10-20 years,"150,000-199,999",Online Service/Internet-based Services,Data Scientist,150000.0,199999.0,Europa
+6274,22-24,Man,India,1-3 years,">$1,000,000",Accounting/Finance,Data Scientist,1000000.0,1000000.0,Asia
+6367,45-49,Man,United States of America,5-10 years,"125,000-149,999",Marketing/CRM,Data Scientist,125000.0,149999.0,America
+6400,45-49,Man,United States of America,20+ years,"125,000-149,999",Manufacturing/Fabrication,Other,125000.0,149999.0,America
+6411,35-39,Man,United States of America,10-20 years,"150,000-199,999",Energy/Mining,Data Scientist,150000.0,199999.0,America
+6451,45-49,Man,Spain,5-10 years,"125,000-149,999",Academics/Education,Data Analyst,125000.0,149999.0,Europa
+6454,35-39,Man,United States of America,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Other,150000.0,199999.0,America
+6464,45-49,Man,United States of America,10-20 years,"150,000-199,999",Government/Public Service,Data Scientist,150000.0,199999.0,America
+6482,45-49,Woman,Netherlands,20+ years,"125,000-149,999",Computers/Technology,Other,125000.0,149999.0,Europa
+6487,35-39,Man,Viet Nam,10-20 years,"150,000-199,999",Online Business/Internet-based Sales,Software Engineer,150000.0,199999.0,Asia
+6514,45-49,Man,United States of America,10-20 years,">$1,000,000",Computers/Technology,Data Scientist,1000000.0,1000000.0,America
+6530,50-54,Man,United States of America,20+ years,"150,000-199,999",Shipping/Transportation,Data Scientist,150000.0,199999.0,America
+6542,30-34,Man,Japan,5-10 years,"200,000-249,999",Manufacturing/Fabrication,Other,200000.0,249999.0,Asia
+6543,18-21,Man,India,3-5 years,">$1,000,000",Online Service/Internet-based Services,Software Engineer,1000000.0,1000000.0,Asia
+6562,55-59,Woman,United States of America,20+ years,"250,000-299,999",Academics/Education,Other,250000.0,299999.0,America
+6580,45-49,Man,Italy,3-5 years,"125,000-149,999",Online Business/Internet-based Sales,Other,125000.0,149999.0,Europa
+6588,55-59,Man,United States of America,20+ years,"$500,000-999,999",Computers/Technology,Other,500000.0,999999.0,America
+6598,55-59,Man,United States of America,20+ years,"200,000-249,999",Computers/Technology,Data Scientist,200000.0,249999.0,America
+6599,35-39,Man,China,10-20 years,"200,000-249,999",Retail/Sales,Data Engineer,200000.0,249999.0,Asia
+6617,60-69,Man,Canada,20+ years,"250,000-299,999",Insurance/Risk Assessment,Business Analyst,250000.0,299999.0,America
+6697,45-49,Man,United States of America,10-20 years,"150,000-199,999",Accounting/Finance,Data Scientist,150000.0,199999.0,America
+6789,45-49,Man,China,20+ years,"150,000-199,999",Computers/Technology,Program/Project Manager,150000.0,199999.0,Asia
+6818,40-44,Man,Switzerland,20+ years,"125,000-149,999",Other,Data Scientist,125000.0,149999.0,Europa
+6836,50-54,Man,United States of America,10-20 years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,America
+6846,25-29,Woman,United States of America,5-10 years,"200,000-249,999",Computers/Technology,Product Manager,200000.0,249999.0,America
+6852,60-69,Man,United States of America,20+ years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+6868,40-44,Man,Other,10-20 years,"200,000-249,999",Computers/Technology,Data Scientist,200000.0,249999.0,Otros
+6889,50-54,Woman,United States of America,20+ years,"125,000-149,999",Insurance/Risk Assessment,Software Engineer,125000.0,149999.0,America
+6890,55-59,Man,United Kingdom of Great Britain and Northern Ireland,20+ years,"300,000-499,999",Accounting/Finance,Software Engineer,300000.0,499999.0,Europa
+6911,45-49,Man,Canada,20+ years,"150,000-199,999",Accounting/Finance,Data Analyst,150000.0,199999.0,America
+6934,22-24,Man,United States of America,1-3 years,"150,000-199,999",Other,Data Scientist,150000.0,199999.0,America
+6951,50-54,Man,United States of America,5-10 years,"150,000-199,999",Computers/Technology,Product Manager,150000.0,199999.0,America
+6955,25-29,Man,Russia,5-10 years,"125,000-149,999",Retail/Sales,Data Engineer,125000.0,149999.0,Asia
+6962,40-44,Man,United States of America,5-10 years,"125,000-149,999",Computers/Technology,Program/Project Manager,125000.0,149999.0,America
+6977,55-59,Man,Germany,20+ years,"125,000-149,999",Computers/Technology,Other,125000.0,149999.0,Europa
+6985,50-54,Man,United States of America,20+ years,"150,000-199,999",Insurance/Risk Assessment,Data Engineer,150000.0,199999.0,America
+7004,40-44,Man,United States of America,5-10 years,"300,000-499,999",Computers/Technology,Developer Relations/Advocacy,300000.0,499999.0,America
+7033,45-49,Man,Switzerland,20+ years,"150,000-199,999",Accounting/Finance,Data Scientist,150000.0,199999.0,Europa
+7043,30-34,Man,United Kingdom of Great Britain and Northern Ireland,10-20 years,"250,000-299,999",Online Service/Internet-based Services,Other,250000.0,299999.0,Europa
+7045,55-59,Man,United States of America,10-20 years,"125,000-149,999",Academics/Education,Other,125000.0,149999.0,America
+7061,30-34,Man,China,5-10 years,"125,000-149,999",Accounting/Finance,Data Engineer,125000.0,149999.0,Asia
+7093,25-29,Man,Germany,10-20 years,">$1,000,000",Computers/Technology,Other,1000000.0,1000000.0,Europa
+7129,30-34,Man,United States of America,10-20 years,"125,000-149,999",Shipping/Transportation,Software Engineer,125000.0,149999.0,America
+7149,45-49,Man,United States of America,20+ years,"300,000-499,999",Insurance/Risk Assessment,Other,300000.0,499999.0,America
+7189,70+,Nonbinary,Other,I have never written code,">$1,000,000",Non-profit/Service,Other,1000000.0,1000000.0,Otros
+7218,30-34,Man,Spain,5-10 years,"125,000-149,999",Computers/Technology,Other,125000.0,149999.0,Europa
+7219,25-29,Man,Spain,5-10 years,"150,000-199,999",Medical/Pharmaceutical,Other,150000.0,199999.0,Europa
+7227,30-34,Man,United States of America,10-20 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+7237,55-59,Woman,United States of America,< 1 years,"250,000-299,999",Computers/Technology,Product Manager,250000.0,299999.0,America
+7247,35-39,Man,India,10-20 years,"125,000-149,999",Computers/Technology,Machine Learning Engineer,125000.0,149999.0,Asia
+7318,40-44,Man,United States of America,20+ years,">$1,000,000",Accounting/Finance,Data Scientist,1000000.0,1000000.0,America
+7351,45-49,Man,Australia,20+ years,"125,000-149,999",Accounting/Finance,Machine Learning Engineer,125000.0,149999.0,Oceania
+7388,35-39,Man,United States of America,5-10 years,"150,000-199,999",Insurance/Risk Assessment,Data Scientist,150000.0,199999.0,America
+7441,30-34,Woman,United States of America,5-10 years,"250,000-299,999",Computers/Technology,Software Engineer,250000.0,299999.0,America
+7447,45-49,Prefer not to say,Singapore,I have never written code,"125,000-149,999",Government/Public Service,Program/Project Manager,125000.0,149999.0,Asia
+7452,60-69,Man,Canada,20+ years,"200,000-249,999",Medical/Pharmaceutical,Research Scientist,200000.0,249999.0,America
+7462,50-54,Man,United States of America,20+ years,"150,000-199,999",Academics/Education,Other,150000.0,199999.0,America
+7476,30-34,Prefer not to say,Canada,20+ years,"150,000-199,999",Government/Public Service,Other,150000.0,199999.0,America
+7485,35-39,Man,United States of America,1-3 years,"200,000-249,999",Computers/Technology,Other,200000.0,249999.0,America
+7488,40-44,Man,Canada,10-20 years,"125,000-149,999",Energy/Mining,Research Scientist,125000.0,149999.0,America
+7512,40-44,Man,Other,20+ years,"150,000-199,999",Broadcasting/Communications,Product Manager,150000.0,199999.0,Otros
+7558,45-49,Man,Israel,20+ years,"125,000-149,999",Online Service/Internet-based Services,Data Scientist,125000.0,149999.0,Asia
+7592,35-39,Man,Singapore,3-5 years,"200,000-249,999",Online Service/Internet-based Services,Data Scientist,200000.0,249999.0,Asia
+7596,25-29,Man,United States of America,10-20 years,"125,000-149,999",Online Service/Internet-based Services,Machine Learning Engineer,125000.0,149999.0,America
+7631,60-69,Man,United States of America,20+ years,"150,000-199,999",Accounting/Finance,Data Engineer,150000.0,199999.0,America
+7652,25-29,Man,Nigeria,< 1 years,"150,000-199,999",Computers/Technology,Data Analyst,150000.0,199999.0,Africa
+7668,30-34,Man,United States of America,5-10 years,"125,000-149,999",Academics/Education,Software Engineer,125000.0,149999.0,America
+7725,45-49,Man,United States of America,10-20 years,"150,000-199,999",Non-profit/Service,Data Scientist,150000.0,199999.0,America
+7756,45-49,Man,Israel,20+ years,"125,000-149,999",Insurance/Risk Assessment,Data Scientist,125000.0,149999.0,Asia
+7759,22-24,Woman,Tunisia,1-3 years,"300,000-499,999",Academics/Education,Data Scientist,300000.0,499999.0,Asia
+7771,45-49,Man,Denmark,20+ years,"125,000-149,999",Accounting/Finance,Data Scientist,125000.0,149999.0,Europa
+7773,25-29,Woman,France,< 1 years,">$1,000,000",Medical/Pharmaceutical,Business Analyst,1000000.0,1000000.0,Europa
+7819,45-49,Man,Japan,1-3 years,"125,000-149,999",Medical/Pharmaceutical,Research Scientist,125000.0,149999.0,Asia
+7826,40-44,Man,I do not wish to disclose my location,5-10 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,Otros
+7839,70+,Man,United States of America,20+ years,"200,000-249,999",Government/Public Service,Research Scientist,200000.0,249999.0,America
+7856,30-34,Man,United States of America,10-20 years,">$1,000,000",Accounting/Finance,Data Scientist,1000000.0,1000000.0,America
+7896,30-34,Man,United States of America,5-10 years,"250,000-299,999",Military/Security/Defense,Data Engineer,250000.0,299999.0,America
+7898,30-34,Man,Belgium,3-5 years,"125,000-149,999",Retail/Sales,Data Scientist,125000.0,149999.0,Europa
+7900,50-54,Man,Canada,20+ years,"125,000-149,999",Accounting/Finance,Data Scientist,125000.0,149999.0,America
+7934,30-34,Woman,United States of America,5-10 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,America
+7965,35-39,Man,United States of America,3-5 years,"125,000-149,999",Energy/Mining,Data Scientist,125000.0,149999.0,America
+8031,55-59,Man,Denmark,20+ years,"125,000-149,999",Government/Public Service,Machine Learning Engineer,125000.0,149999.0,Europa
+8033,45-49,Man,United States of America,20+ years,"125,000-149,999",Accounting/Finance,Software Engineer,125000.0,149999.0,America
+8059,60-69,Man,United States of America,20+ years,"300,000-499,999",Medical/Pharmaceutical,Research Scientist,300000.0,499999.0,America
+8093,50-54,Man,United States of America,10-20 years,"125,000-149,999",Academics/Education,Machine Learning Engineer,125000.0,149999.0,America
+8127,60-69,Man,United States of America,20+ years,"125,000-149,999",Computers/Technology,Product Manager,125000.0,149999.0,America
+8158,40-44,Prefer not to say,Australia,5-10 years,"$500,000-999,999",Other,Data Scientist,500000.0,999999.0,Oceania
+8166,35-39,Man,Austria,5-10 years,">$1,000,000",Academics/Education,Research Scientist,1000000.0,1000000.0,Europa
+8176,55-59,Woman,United States of America,20+ years,"200,000-249,999",Computers/Technology,Other,200000.0,249999.0,America
+8195,40-44,Woman,United States of America,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Data Scientist,150000.0,199999.0,America
+8205,30-34,Man,United States of America,10-20 years,"150,000-199,999",Energy/Mining,Data Scientist,150000.0,199999.0,America
+8207,30-34,Man,United States of America,5-10 years,"250,000-299,999",Computers/Technology,Machine Learning Engineer,250000.0,299999.0,America
+8209,45-49,Man,China,10-20 years,"200,000-249,999",Accounting/Finance,Program/Project Manager,200000.0,249999.0,Asia
+8219,30-34,Man,Canada,10-20 years,"150,000-199,999",Computers/Technology,Machine Learning Engineer,150000.0,199999.0,America
+8248,30-34,Man,United States of America,10-20 years,"300,000-499,999",Online Service/Internet-based Services,Software Engineer,300000.0,499999.0,America
+8254,40-44,Man,United States of America,10-20 years,"150,000-199,999",Hospitality/Entertainment/Sports,Data Scientist,150000.0,199999.0,America
+8295,40-44,Man,Indonesia,10-20 years,"150,000-199,999",Broadcasting/Communications,Data Scientist,150000.0,199999.0,Asia
+8307,50-54,Prefer not to say,United States of America,10-20 years,"250,000-299,999",Other,Data Scientist,250000.0,299999.0,America
+8314,35-39,Man,Germany,3-5 years,"125,000-149,999",Military/Security/Defense,Machine Learning Engineer,125000.0,149999.0,Europa
+8364,40-44,Man,Russia,10-20 years,"150,000-199,999",Other,Data Scientist,150000.0,199999.0,Asia
+8376,30-34,Man,United States of America,10-20 years,"150,000-199,999",Computers/Technology,Machine Learning Engineer,150000.0,199999.0,America
+8386,35-39,Woman,Pakistan,I have never written code,"300,000-499,999",Energy/Mining,Other,300000.0,499999.0,Asia
+8416,40-44,Man,United States of America,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Statistician,150000.0,199999.0,America
+8419,55-59,Man,South Korea,20+ years,"250,000-299,999",Manufacturing/Fabrication,Machine Learning Engineer,250000.0,299999.0,Asia
+8430,30-34,Man,Belgium,3-5 years,"125,000-149,999",Retail/Sales,Data Scientist,125000.0,149999.0,Europa
+8440,40-44,Man,Canada,10-20 years,"200,000-249,999",Accounting/Finance,Data Scientist,200000.0,249999.0,America
+8487,40-44,Man,Russia,20+ years,"125,000-149,999",Shipping/Transportation,Other,125000.0,149999.0,Asia
+8493,35-39,Man,Australia,10-20 years,"125,000-149,999",Computers/Technology,Other,125000.0,149999.0,Oceania
+8508,30-34,Man,Canada,5-10 years,"125,000-149,999",Accounting/Finance,Data Scientist,125000.0,149999.0,America
+8528,60-69,Man,United States of America,< 1 years,"200,000-249,999",Manufacturing/Fabrication,Other,200000.0,249999.0,America
+8530,45-49,Man,United Kingdom of Great Britain and Northern Ireland,20+ years,"200,000-249,999",Other,Other,200000.0,249999.0,Europa
+8534,60-69,Man,Japan,I have never written code,"150,000-199,999",Medical/Pharmaceutical,Research Scientist,150000.0,199999.0,Asia
+8569,30-34,Man,China,1-3 years,"125,000-149,999",Computers/Technology,Other,125000.0,149999.0,Asia
+8590,35-39,Man,United States of America,10-20 years,"300,000-499,999",Computers/Technology,Data Scientist,300000.0,499999.0,America
+8610,30-34,Man,United States of America,5-10 years,"150,000-199,999",Computers/Technology,Product Manager,150000.0,199999.0,America
+8629,50-54,Man,Israel,20+ years,"125,000-149,999",Computers/Technology,Program/Project Manager,125000.0,149999.0,Asia
+8660,60-69,Man,United States of America,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Data Scientist,150000.0,199999.0,America
+8664,70+,Man,United States of America,20+ years,"150,000-199,999",Insurance/Risk Assessment,Data Engineer,150000.0,199999.0,America
+8665,45-49,Man,United States of America,20+ years,"300,000-499,999",Computers/Technology,Software Engineer,300000.0,499999.0,America
+8692,40-44,Woman,United States of America,I have never written code,"125,000-149,999",Energy/Mining,Product Manager,125000.0,149999.0,America
+8732,55-59,Man,Canada,10-20 years,"150,000-199,999",Broadcasting/Communications,Data Analyst,150000.0,199999.0,America
+8808,25-29,Man,United States of America,5-10 years,"125,000-149,999",Online Business/Internet-based Sales,Machine Learning Engineer,125000.0,149999.0,America
+8830,40-44,Man,Canada,3-5 years,"200,000-249,999",Computers/Technology,Data Scientist,200000.0,249999.0,America
+8849,50-54,Man,Germany,20+ years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,Europa
+8854,35-39,Man,United States of America,10-20 years,"$500,000-999,999",Computers/Technology,Machine Learning Engineer,500000.0,999999.0,America
+8865,35-39,Man,United States of America,3-5 years,"150,000-199,999",Medical/Pharmaceutical,Data Scientist,150000.0,199999.0,America
+8895,60-69,Man,Germany,20+ years,"125,000-149,999",Manufacturing/Fabrication,Research Scientist,125000.0,149999.0,Europa
+8911,30-34,Man,Japan,5-10 years,"200,000-249,999",Online Business/Internet-based Sales,Data Scientist,200000.0,249999.0,Asia
+8949,40-44,Man,Spain,I have never written code,"150,000-199,999",Military/Security/Defense,Statistician,150000.0,199999.0,Europa
+8966,45-49,Man,Australia,20+ years,"200,000-249,999",Shipping/Transportation,Data Scientist,200000.0,249999.0,Oceania
+8987,50-54,Man,United States of America,20+ years,"300,000-499,999",Online Service/Internet-based Services,Product Manager,300000.0,499999.0,America
+8994,55-59,Man,United States of America,20+ years,"150,000-199,999",Marketing/CRM,Software Engineer,150000.0,199999.0,America
+9003,30-34,Man,Canada,5-10 years,"125,000-149,999",Non-profit/Service,Data Analyst,125000.0,149999.0,America
+9005,35-39,Man,Hong Kong (S.A.R.),10-20 years,"150,000-199,999",Insurance/Risk Assessment,Program/Project Manager,150000.0,199999.0,Asia
+9085,40-44,Man,India,5-10 years,"200,000-249,999",Computers/Technology,Software Engineer,200000.0,249999.0,Asia
+9111,40-44,Man,United States of America,10-20 years,"300,000-499,999",Computers/Technology,Data Scientist,300000.0,499999.0,America
+9117,50-54,Man,United States of America,5-10 years,"150,000-199,999",Non-profit/Service,Research Scientist,150000.0,199999.0,America
+9122,40-44,Man,United States of America,10-20 years,"125,000-149,999",Broadcasting/Communications,Data Scientist,125000.0,149999.0,America
+9124,55-59,Man,United States of America,20+ years,"200,000-249,999",Accounting/Finance,Data Scientist,200000.0,249999.0,America
+9145,55-59,Man,United States of America,20+ years,"150,000-199,999",Military/Security/Defense,Program/Project Manager,150000.0,199999.0,America
+9172,50-54,Man,United States of America,20+ years,"125,000-149,999",Retail/Sales,DBA/Database Engineer,125000.0,149999.0,America
+9178,30-34,Man,United States of America,1-3 years,"125,000-149,999",Marketing/CRM,Program/Project Manager,125000.0,149999.0,America
+9190,18-21,Man,Pakistan,1-3 years,"300,000-499,999",Computers/Technology,Data Scientist,300000.0,499999.0,Asia
+9217,35-39,Man,United States of America,10-20 years,"300,000-499,999",Accounting/Finance,Data Scientist,300000.0,499999.0,America
+9230,35-39,Man,United States of America,5-10 years,"300,000-499,999",Medical/Pharmaceutical,Data Scientist,300000.0,499999.0,America
+9243,45-49,Man,Singapore,10-20 years,"125,000-149,999",Accounting/Finance,Program/Project Manager,125000.0,149999.0,Asia
+9268,60-69,Man,United States of America,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Research Scientist,150000.0,199999.0,America
+9293,30-34,Man,United States of America,5-10 years,"125,000-149,999",Other,Data Scientist,125000.0,149999.0,America
+9318,50-54,Man,Canada,5-10 years,"300,000-499,999",Accounting/Finance,Other,300000.0,499999.0,America
+9320,45-49,Man,India,5-10 years,"200,000-249,999",Marketing/CRM,Data Scientist,200000.0,249999.0,Asia
+9333,40-44,Man,United States of America,10-20 years,"125,000-149,999",Energy/Mining,Data Scientist,125000.0,149999.0,America
+9337,45-49,Man,United States of America,20+ years,"200,000-249,999",Other,Data Engineer,200000.0,249999.0,America
+9363,55-59,Man,United States of America,20+ years,"150,000-199,999",Military/Security/Defense,Research Scientist,150000.0,199999.0,America
+9370,40-44,Man,United States of America,1-3 years,"125,000-149,999",Manufacturing/Fabrication,Research Scientist,125000.0,149999.0,America
+9379,45-49,Man,United States of America,3-5 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,America
+9420,45-49,Man,United States of America,20+ years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+9465,35-39,Man,United Kingdom of Great Britain and Northern Ireland,5-10 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,Europa
+9484,50-54,Man,South Korea,3-5 years,"125,000-149,999",Computers/Technology,Other,125000.0,149999.0,Asia
+9496,45-49,Man,Australia,< 1 years,"150,000-199,999",Manufacturing/Fabrication,Other,150000.0,199999.0,Oceania
+9500,35-39,Man,United States of America,10-20 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+9583,30-34,Man,United States of America,5-10 years,"125,000-149,999",Retail/Sales,Business Analyst,125000.0,149999.0,America
+9603,40-44,Man,India,10-20 years,"150,000-199,999",Marketing/CRM,Other,150000.0,199999.0,Asia
+9609,25-29,Man,United States of America,1-3 years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,America
+9610,45-49,Man,United States of America,< 1 years,"125,000-149,999",Computers/Technology,Program/Project Manager,125000.0,149999.0,America
+9621,45-49,Man,Israel,20+ years,">$1,000,000",Computers/Technology,Software Engineer,1000000.0,1000000.0,Asia
+9627,30-34,Man,United States of America,1-3 years,"125,000-149,999",Manufacturing/Fabrication,Business Analyst,125000.0,149999.0,America
+9702,35-39,Man,United States of America,5-10 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,America
+9710,60-69,Man,United States of America,20+ years,"250,000-299,999",Energy/Mining,Machine Learning Engineer,250000.0,299999.0,America
+9734,55-59,Man,Germany,20+ years,"150,000-199,999",Other,Machine Learning Engineer,150000.0,199999.0,Europa
+9750,25-29,Man,United States of America,1-3 years,"150,000-199,999",Medical/Pharmaceutical,Product Manager,150000.0,199999.0,America
+9758,55-59,Woman,United States of America,< 1 years,"250,000-299,999",Academics/Education,Other,250000.0,299999.0,America
+9769,60-69,Man,Other,20+ years,">$1,000,000",Academics/Education,Statistician,1000000.0,1000000.0,Otros
+9803,55-59,Man,United States of America,20+ years,"150,000-199,999",Insurance/Risk Assessment,Data Engineer,150000.0,199999.0,America
+9806,18-21,Man,India,I have never written code,"125,000-149,999",Academics/Education,Business Analyst,125000.0,149999.0,Asia
+9816,45-49,Man,United States of America,20+ years,"$500,000-999,999",Computers/Technology,Data Scientist,500000.0,999999.0,America
+9826,35-39,Man,United States of America,5-10 years,"150,000-199,999",Medical/Pharmaceutical,Machine Learning Engineer,150000.0,199999.0,America
+9852,60-69,Man,Australia,5-10 years,"150,000-199,999",Academics/Education,Other,150000.0,199999.0,Oceania
+9864,25-29,Man,Czech Republic,10-20 years,"200,000-249,999",Medical/Pharmaceutical,Data Engineer,200000.0,249999.0,Otros
+9878,45-49,Man,United States of America,20+ years,"250,000-299,999",Medical/Pharmaceutical,Other,250000.0,299999.0,America
+9887,35-39,Woman,United States of America,10-20 years,"300,000-499,999",Hospitality/Entertainment/Sports,Data Analyst,300000.0,499999.0,America
+9897,30-34,Woman,United States of America,5-10 years,"150,000-199,999",Insurance/Risk Assessment,Product Manager,150000.0,199999.0,America
+9918,60-69,Man,United States of America,20+ years,"150,000-199,999",Online Service/Internet-based Services,Data Engineer,150000.0,199999.0,America
+10009,45-49,Man,United Kingdom of Great Britain and Northern Ireland,3-5 years,"$500,000-999,999",Accounting/Finance,Other,500000.0,999999.0,Europa
+10019,30-34,Man,Netherlands,I have never written code,"125,000-149,999",Government/Public Service,Research Scientist,125000.0,149999.0,Europa
+10025,60-69,Woman,United States of America,I have never written code,"125,000-149,999",Medical/Pharmaceutical,Other,125000.0,149999.0,America
+10031,45-49,Man,United States of America,5-10 years,"200,000-249,999",Non-profit/Service,Program/Project Manager,200000.0,249999.0,America
+10038,25-29,Man,United States of America,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Machine Learning Engineer,150000.0,199999.0,America
+10153,50-54,Man,United States of America,20+ years,"$500,000-999,999",Computers/Technology,Software Engineer,500000.0,999999.0,America
+10162,35-39,Man,China,5-10 years,"150,000-199,999",Computers/Technology,Data Engineer,150000.0,199999.0,Asia
+10171,55-59,Man,United Kingdom of Great Britain and Northern Ireland,20+ years,"200,000-249,999",Insurance/Risk Assessment,Other,200000.0,249999.0,Europa
+10180,30-34,Man,United States of America,5-10 years,"200,000-249,999",Accounting/Finance,Data Scientist,200000.0,249999.0,America
+10219,22-24,Man,United States of America,1-3 years,"150,000-199,999",Military/Security/Defense,Data Scientist,150000.0,199999.0,America
+10222,60-69,Man,United States of America,20+ years,"125,000-149,999",Medical/Pharmaceutical,Data Scientist,125000.0,149999.0,America
+10261,60-69,Man,United States of America,20+ years,"150,000-199,999",Accounting/Finance,Machine Learning Engineer,150000.0,199999.0,America
+10273,55-59,Man,United States of America,20+ years,"300,000-499,999",Other,Other,300000.0,499999.0,America
+10281,60-69,Man,United States of America,20+ years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,America
+10283,40-44,Man,United States of America,10-20 years,"150,000-199,999",Online Service/Internet-based Services,Data Scientist,150000.0,199999.0,America
+10314,30-34,Man,United Kingdom of Great Britain and Northern Ireland,5-10 years,"300,000-499,999",Computers/Technology,Data Scientist,300000.0,499999.0,Europa
+10339,60-69,Man,United States of America,10-20 years,"250,000-299,999",Online Service/Internet-based Services,Other,250000.0,299999.0,America
+10345,45-49,Man,United States of America,10-20 years,"150,000-199,999",Retail/Sales,Data Scientist,150000.0,199999.0,America
+10366,50-54,Woman,United States of America,5-10 years,"125,000-149,999",Accounting/Finance,Software Engineer,125000.0,149999.0,America
+10393,50-54,Man,United Kingdom of Great Britain and Northern Ireland,20+ years,"125,000-149,999",Other,Other,125000.0,149999.0,Europa
+10399,35-39,Man,United States of America,10-20 years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,America
+10403,60-69,Prefer not to say,United States of America,3-5 years,"125,000-149,999",Government/Public Service,Other,125000.0,149999.0,America
+10459,45-49,Man,United States of America,20+ years,"150,000-199,999",Accounting/Finance,Software Engineer,150000.0,199999.0,America
+10468,30-34,Nonbinary,Indonesia,3-5 years,">$1,000,000",Retail/Sales,Program/Project Manager,1000000.0,1000000.0,Asia
+10471,60-69,Man,United States of America,20+ years,"150,000-199,999",Broadcasting/Communications,Data Scientist,150000.0,199999.0,America
+10497,45-49,Man,United Kingdom of Great Britain and Northern Ireland,20+ years,"200,000-249,999",Accounting/Finance,Research Scientist,200000.0,249999.0,Europa
+10599,55-59,Man,United States of America,20+ years,"200,000-249,999",Military/Security/Defense,Research Scientist,200000.0,249999.0,America
+10632,45-49,Man,United States of America,20+ years,"150,000-199,999",Online Service/Internet-based Services,Program/Project Manager,150000.0,199999.0,America
+10648,30-34,Man,India,3-5 years,"300,000-499,999",Medical/Pharmaceutical,Data Analyst,300000.0,499999.0,Asia
+10685,50-54,Man,United States of America,20+ years,"200,000-249,999",Medical/Pharmaceutical,Data Scientist,200000.0,249999.0,America
+10712,25-29,Prefer not to say,India,5-10 years,">$1,000,000",Accounting/Finance,Software Engineer,1000000.0,1000000.0,Asia
+10756,25-29,Prefer not to say,United States of America,5-10 years,"300,000-499,999",Computers/Technology,Software Engineer,300000.0,499999.0,America
+10761,40-44,Man,United States of America,5-10 years,"150,000-199,999",Marketing/CRM,Data Scientist,150000.0,199999.0,America
+10765,35-39,Woman,Other,3-5 years,"125,000-149,999",Shipping/Transportation,Other,125000.0,149999.0,Otros
+10781,45-49,Man,United States of America,20+ years,"300,000-499,999",Medical/Pharmaceutical,Other,300000.0,499999.0,America
+10793,22-24,Man,United States of America,3-5 years,"125,000-149,999",Computers/Technology,Machine Learning Engineer,125000.0,149999.0,America
+10795,50-54,Man,United States of America,20+ years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+10805,50-54,Man,Other,5-10 years,"300,000-499,999",Other,Other,300000.0,499999.0,Otros
+10813,30-34,Man,United States of America,< 1 years,"150,000-199,999",Accounting/Finance,Other,150000.0,199999.0,America
+10848,50-54,Man,United States of America,20+ years,"125,000-149,999",Academics/Education,Program/Project Manager,125000.0,149999.0,America
+10852,35-39,Man,United States of America,1-3 years,"300,000-499,999",Accounting/Finance,Other,300000.0,499999.0,America
+10867,30-34,Man,Canada,10-20 years,"125,000-149,999",Shipping/Transportation,Data Scientist,125000.0,149999.0,America
+10901,30-34,Man,United States of America,10-20 years,"125,000-149,999",Marketing/CRM,Machine Learning Engineer,125000.0,149999.0,America
+10903,22-24,Man,India,1-3 years,"250,000-299,999",Other,Program/Project Manager,250000.0,299999.0,Asia
+10925,25-29,Woman,United Kingdom of Great Britain and Northern Ireland,5-10 years,"125,000-149,999",Online Service/Internet-based Services,Machine Learning Engineer,125000.0,149999.0,Europa
+10928,50-54,Man,United States of America,10-20 years,"125,000-149,999",Medical/Pharmaceutical,Software Engineer,125000.0,149999.0,America
+10944,50-54,Man,France,20+ years,"125,000-149,999",Academics/Education,Statistician,125000.0,149999.0,Europa
+10962,70+,Man,United States of America,1-3 years,"200,000-249,999",Insurance/Risk Assessment,Data Analyst,200000.0,249999.0,America
+10985,35-39,Man,United States of America,10-20 years,"125,000-149,999",Broadcasting/Communications,Software Engineer,125000.0,149999.0,America
+11013,50-54,Man,South Korea,20+ years,"125,000-149,999",Manufacturing/Fabrication,Research Scientist,125000.0,149999.0,Asia
+11022,60-69,Man,Germany,3-5 years,"250,000-299,999",Medical/Pharmaceutical,Business Analyst,250000.0,299999.0,Europa
+11026,25-29,Man,China,20+ years,">$1,000,000",Computers/Technology,Machine Learning Engineer,1000000.0,1000000.0,Asia
+11060,35-39,Woman,Saudi Arabia,< 1 years,"150,000-199,999",Hospitality/Entertainment/Sports,Research Scientist,150000.0,199999.0,Asia
+11065,60-69,Man,United States of America,20+ years,"300,000-499,999",Other,Program/Project Manager,300000.0,499999.0,America
+11079,60-69,Man,Australia,20+ years,"150,000-199,999",Other,Data Scientist,150000.0,199999.0,Oceania
+11091,30-34,Man,United States of America,5-10 years,"150,000-199,999",Manufacturing/Fabrication,Research Scientist,150000.0,199999.0,America
+11093,25-29,Woman,United States of America,< 1 years,"200,000-249,999",Online Service/Internet-based Services,Data Scientist,200000.0,249999.0,America
+11102,60-69,Man,United Kingdom of Great Britain and Northern Ireland,20+ years,"150,000-199,999",Computers/Technology,Program/Project Manager,150000.0,199999.0,Europa
+11107,35-39,Man,United States of America,10-20 years,"150,000-199,999",Other,Data Scientist,150000.0,199999.0,America
+11134,50-54,Man,United States of America,1-3 years,"200,000-249,999",Medical/Pharmaceutical,Research Scientist,200000.0,249999.0,America
+11173,35-39,Woman,United States of America,5-10 years,"125,000-149,999",Accounting/Finance,Data Engineer,125000.0,149999.0,America
+11190,25-29,Man,United States of America,5-10 years,"125,000-149,999",Medical/Pharmaceutical,Data Scientist,125000.0,149999.0,America
+11202,45-49,Man,Singapore,10-20 years,"125,000-149,999",Insurance/Risk Assessment,Statistician,125000.0,149999.0,Asia
+11203,55-59,Man,Singapore,5-10 years,"200,000-249,999",Insurance/Risk Assessment,Other,200000.0,249999.0,Asia
+11204,60-69,Man,United States of America,20+ years,"150,000-199,999",Computers/Technology,Software Engineer,150000.0,199999.0,America
+11233,35-39,Man,United States of America,5-10 years,"150,000-199,999",Broadcasting/Communications,Data Analyst,150000.0,199999.0,America
+11289,45-49,Man,United States of America,20+ years,"125,000-149,999",Academics/Education,Research Scientist,125000.0,149999.0,America
+11321,55-59,Man,United States of America,20+ years,"300,000-499,999",Medical/Pharmaceutical,Data Scientist,300000.0,499999.0,America
+11375,50-54,Man,Israel,10-20 years,"250,000-299,999",Insurance/Risk Assessment,Data Scientist,250000.0,299999.0,Asia
+11378,35-39,Man,Egypt,1-3 years,"125,000-149,999",Accounting/Finance,Data Scientist,125000.0,149999.0,Africa
+11380,25-29,Man,Switzerland,5-10 years,"125,000-149,999",Insurance/Risk Assessment,Data Scientist,125000.0,149999.0,Europa
+11446,25-29,Man,United States of America,5-10 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+11461,25-29,Man,United States of America,5-10 years,"125,000-149,999",Medical/Pharmaceutical,Machine Learning Engineer,125000.0,149999.0,America
+11471,40-44,Man,United States of America,5-10 years,"200,000-249,999",Broadcasting/Communications,Other,200000.0,249999.0,America
+11483,40-44,Man,United States of America,10-20 years,"200,000-249,999",Accounting/Finance,Data Scientist,200000.0,249999.0,America
+11509,50-54,Man,United States of America,20+ years,"150,000-199,999",Computers/Technology,Software Engineer,150000.0,199999.0,America
+11538,25-29,Man,United States of America,3-5 years,"200,000-249,999",Marketing/CRM,Other,200000.0,249999.0,America
+11584,55-59,Man,United States of America,20+ years,"300,000-499,999",Insurance/Risk Assessment,Data Scientist,300000.0,499999.0,America
+11594,30-34,Man,United States of America,5-10 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+11597,30-34,Man,India,1-3 years,"200,000-249,999",Accounting/Finance,Statistician,200000.0,249999.0,Asia
+11610,40-44,Man,United States of America,10-20 years,"150,000-199,999",Computers/Technology,Software Engineer,150000.0,199999.0,America
+11613,55-59,Man,United Kingdom of Great Britain and Northern Ireland,20+ years,"200,000-249,999",Computers/Technology,Other,200000.0,249999.0,Europa
+11621,35-39,Man,Japan,3-5 years,"150,000-199,999",Computers/Technology,Program/Project Manager,150000.0,199999.0,Asia
+11627,35-39,Man,Canada,3-5 years,"125,000-149,999",Accounting/Finance,Data Analyst,125000.0,149999.0,America
+11638,45-49,Man,Australia,20+ years,"200,000-249,999",Non-profit/Service,Program/Project Manager,200000.0,249999.0,Oceania
+11644,60-69,Man,United States of America,< 1 years,"300,000-499,999",Academics/Education,Research Scientist,300000.0,499999.0,America
+11646,25-29,Man,United States of America,5-10 years,"150,000-199,999",Insurance/Risk Assessment,Research Scientist,150000.0,199999.0,America
+11673,70+,Man,United States of America,20+ years,"200,000-249,999",Marketing/CRM,Data Scientist,200000.0,249999.0,America
+11696,45-49,Man,United States of America,20+ years,"200,000-249,999",Computers/Technology,Software Engineer,200000.0,249999.0,America
+11706,35-39,Man,United Kingdom of Great Britain and Northern Ireland,10-20 years,"150,000-199,999",Insurance/Risk Assessment,Data Scientist,150000.0,199999.0,Europa
+11722,35-39,Man,Australia,10-20 years,"125,000-149,999",Academics/Education,Data Engineer,125000.0,149999.0,Oceania
+11755,35-39,Man,Switzerland,< 1 years,"125,000-149,999",Online Business/Internet-based Sales,Business Analyst,125000.0,149999.0,Europa
+11777,30-34,Man,Turkey,3-5 years,"$500,000-999,999",Academics/Education,Program/Project Manager,500000.0,999999.0,Asia
+11817,30-34,Man,United States of America,3-5 years,"150,000-199,999",Energy/Mining,Other,150000.0,199999.0,America
+11854,40-44,Man,United States of America,20+ years,"150,000-199,999",Other,DBA/Database Engineer,150000.0,199999.0,America
+11867,45-49,Man,United States of America,10-20 years,"200,000-249,999",Computers/Technology,Program/Project Manager,200000.0,249999.0,America
+11882,55-59,Man,United States of America,20+ years,"250,000-299,999",Medical/Pharmaceutical,Research Scientist,250000.0,299999.0,America
+11885,45-49,Man,United States of America,20+ years,"150,000-199,999",Government/Public Service,Data Scientist,150000.0,199999.0,America
+11886,40-44,Man,United States of America,20+ years,"150,000-199,999",Accounting/Finance,Software Engineer,150000.0,199999.0,America
+11901,50-54,Man,United States of America,20+ years,"200,000-249,999",Computers/Technology,Data Scientist,200000.0,249999.0,America
+11902,40-44,Man,United States of America,5-10 years,"125,000-149,999",Accounting/Finance,Data Engineer,125000.0,149999.0,America
+11926,30-34,Man,United States of America,10-20 years,">$1,000,000",Computers/Technology,Machine Learning Engineer,1000000.0,1000000.0,America
+12029,45-49,Man,Egypt,10-20 years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,Africa
+12032,40-44,Man,United States of America,< 1 years,"125,000-149,999",Insurance/Risk Assessment,Other,125000.0,149999.0,America
+12036,40-44,Man,Hong Kong (S.A.R.),20+ years,"150,000-199,999",Insurance/Risk Assessment,Business Analyst,150000.0,199999.0,Asia
+12063,50-54,Man,United States of America,20+ years,"125,000-149,999",Computers/Technology,Product Manager,125000.0,149999.0,America
+12078,22-24,Man,China,3-5 years,"200,000-249,999",Academics/Education,Machine Learning Engineer,200000.0,249999.0,Asia
+12102,25-29,Man,United States of America,5-10 years,"125,000-149,999",Computers/Technology,Machine Learning Engineer,125000.0,149999.0,America
+12107,18-21,Man,India,1-3 years,"$500,000-999,999",Other,Data Scientist,500000.0,999999.0,Asia
+12118,45-49,Man,United States of America,1-3 years,"150,000-199,999",Computers/Technology,Other,150000.0,199999.0,America
+12127,40-44,Man,France,5-10 years,"125,000-149,999",Medical/Pharmaceutical,Other,125000.0,149999.0,Europa
+12139,60-69,Man,Canada,20+ years,"150,000-199,999",Academics/Education,Other,150000.0,199999.0,America
+12148,55-59,Man,United States of America,10-20 years,"150,000-199,999",Broadcasting/Communications,Data Scientist,150000.0,199999.0,America
+12175,30-34,Woman,India,< 1 years,"300,000-499,999",Computers/Technology,Data Analyst,300000.0,499999.0,Asia
+12188,45-49,Man,United States of America,5-10 years,"250,000-299,999",Computers/Technology,Other,250000.0,299999.0,America
+12197,35-39,Man,United States of America,1-3 years,"200,000-249,999",Computers/Technology,Product Manager,200000.0,249999.0,America
+12206,60-69,Man,Germany,5-10 years,"125,000-149,999",Online Service/Internet-based Services,Other,125000.0,149999.0,Europa
+12215,25-29,Man,France,5-10 years,"150,000-199,999",Accounting/Finance,Data Scientist,150000.0,199999.0,Europa
+12222,45-49,Man,United States of America,1-3 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,America
+12229,60-69,Man,Germany,20+ years,"200,000-249,999",Medical/Pharmaceutical,Machine Learning Engineer,200000.0,249999.0,Europa
+12290,30-34,Woman,United States of America,5-10 years,"125,000-149,999",Medical/Pharmaceutical,Data Engineer,125000.0,149999.0,America
+12294,40-44,Man,Australia,20+ years,"125,000-149,999",Computers/Technology,Data Engineer,125000.0,149999.0,Oceania
+12313,35-39,Man,United States of America,20+ years,"200,000-249,999",Computers/Technology,Product Manager,200000.0,249999.0,America
+12333,25-29,Man,Netherlands,5-10 years,"150,000-199,999",Accounting/Finance,Other,150000.0,199999.0,Europa
+12334,35-39,Man,United States of America,10-20 years,"150,000-199,999",Academics/Education,Other,150000.0,199999.0,America
+12357,50-54,Man,United States of America,20+ years,"250,000-299,999",Computers/Technology,Data Scientist,250000.0,299999.0,America
+12384,30-34,Man,United States of America,5-10 years,"125,000-149,999",Government/Public Service,Data Scientist,125000.0,149999.0,America
+12388,35-39,Prefer not to say,Singapore,10-20 years,"125,000-149,999",Academics/Education,Research Scientist,125000.0,149999.0,Asia
+12406,30-34,Man,Other,10-20 years,"150,000-199,999",Accounting/Finance,Machine Learning Engineer,150000.0,199999.0,Otros
+12421,40-44,Man,United States of America,10-20 years,"150,000-199,999",Computers/Technology,Other,150000.0,199999.0,America
+12422,60-69,Man,United States of America,20+ years,"125,000-149,999",Other,Other,125000.0,149999.0,America
+12442,35-39,Man,United States of America,5-10 years,"300,000-499,999",Online Service/Internet-based Services,Machine Learning Engineer,300000.0,499999.0,America
+12458,35-39,Man,Germany,10-20 years,"150,000-199,999",Online Service/Internet-based Services,Data Scientist,150000.0,199999.0,Europa
+12522,30-34,Man,United States of America,< 1 years,"150,000-199,999",Accounting/Finance,Program/Project Manager,150000.0,199999.0,America
+12536,55-59,Man,United States of America,20+ years,"200,000-249,999",Computers/Technology,Software Engineer,200000.0,249999.0,America
+12634,35-39,Woman,France,5-10 years,"150,000-199,999",Medical/Pharmaceutical,Data Scientist,150000.0,199999.0,Europa
+12648,60-69,Prefer not to say,United States of America,5-10 years,"150,000-199,999",Military/Security/Defense,Other,150000.0,199999.0,America
+12660,35-39,Man,United States of America,20+ years,"200,000-249,999",Computers/Technology,Data Scientist,200000.0,249999.0,America
+12702,40-44,Man,United States of America,3-5 years,"300,000-499,999",Online Service/Internet-based Services,Software Engineer,300000.0,499999.0,America
+12721,35-39,Man,Israel,3-5 years,">$1,000,000",Computers/Technology,Other,1000000.0,1000000.0,Asia
+12725,70+,Man,United States of America,5-10 years,"125,000-149,999",Military/Security/Defense,Other,125000.0,149999.0,America
+12759,35-39,Man,Australia,1-3 years,"150,000-199,999",Other,Program/Project Manager,150000.0,199999.0,Oceania
+12782,50-54,Man,United States of America,20+ years,"200,000-249,999",Retail/Sales,Other,200000.0,249999.0,America
+12841,35-39,Man,United States of America,10-20 years,"200,000-249,999",Medical/Pharmaceutical,Data Scientist,200000.0,249999.0,America
+12843,35-39,Man,United States of America,10-20 years,"250,000-299,999",Computers/Technology,Data Analyst,250000.0,299999.0,America
+12846,50-54,Man,United States of America,20+ years,"125,000-149,999",Academics/Education,Research Scientist,125000.0,149999.0,America
+12849,30-34,Man,Israel,5-10 years,"125,000-149,999",Manufacturing/Fabrication,Data Scientist,125000.0,149999.0,Asia
+12852,70+,Man,United States of America,20+ years,"200,000-249,999",Energy/Mining,Product Manager,200000.0,249999.0,America
+12863,35-39,Man,United States of America,5-10 years,"150,000-199,999",Hospitality/Entertainment/Sports,Data Scientist,150000.0,199999.0,America
+12884,50-54,Man,United States of America,20+ years,"150,000-199,999",Other,Research Scientist,150000.0,199999.0,America
+12901,45-49,Woman,United States of America,< 1 years,"125,000-149,999",Medical/Pharmaceutical,Business Analyst,125000.0,149999.0,America
+12917,35-39,Man,United States of America,10-20 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+12924,30-34,Man,United States of America,5-10 years,"200,000-249,999",Shipping/Transportation,Data Scientist,200000.0,249999.0,America
+12929,25-29,Man,Israel,10-20 years,"200,000-249,999",Computers/Technology,Data Scientist,200000.0,249999.0,Asia
+12933,55-59,Man,United States of America,I have never written code,"200,000-249,999",Computers/Technology,DBA/Database Engineer,200000.0,249999.0,America
+12945,25-29,Man,Other,3-5 years,"125,000-149,999",Online Service/Internet-based Services,Data Scientist,125000.0,149999.0,Otros
+12980,60-69,Prefer not to say,United States of America,20+ years,"250,000-299,999",Computers/Technology,Research Scientist,250000.0,299999.0,America
+12996,35-39,Man,United States of America,10-20 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,America
+13033,25-29,Man,United States of America,5-10 years,"125,000-149,999",Other,Data Scientist,125000.0,149999.0,America
+13040,70+,Man,United States of America,20+ years,"150,000-199,999",Other,Software Engineer,150000.0,199999.0,America
+13057,45-49,Woman,United States of America,3-5 years,"125,000-149,999",Medical/Pharmaceutical,Research Scientist,125000.0,149999.0,America
+13066,35-39,Man,China,< 1 years,"200,000-249,999",Shipping/Transportation,Other,200000.0,249999.0,Asia
+13111,40-44,Man,United States of America,10-20 years,"250,000-299,999",Manufacturing/Fabrication,Data Scientist,250000.0,299999.0,America
+13129,40-44,Man,United States of America,10-20 years,"125,000-149,999",Hospitality/Entertainment/Sports,Data Scientist,125000.0,149999.0,America
+13155,60-69,Man,Netherlands,20+ years,"200,000-249,999",Academics/Education,Other,200000.0,249999.0,Europa
+13157,35-39,Man,United States of America,20+ years,"200,000-249,999",Military/Security/Defense,Machine Learning Engineer,200000.0,249999.0,America
+13167,60-69,Man,United States of America,20+ years,"300,000-499,999",Computers/Technology,Program/Project Manager,300000.0,499999.0,America
+13223,25-29,Man,United States of America,3-5 years,"125,000-149,999",Government/Public Service,Business Analyst,125000.0,149999.0,America
+13242,35-39,Nonbinary,United States of America,10-20 years,"150,000-199,999",Manufacturing/Fabrication,Other,150000.0,199999.0,America
+13262,35-39,Man,United States of America,5-10 years,"150,000-199,999",Hospitality/Entertainment/Sports,Machine Learning Engineer,150000.0,199999.0,America
+13278,35-39,Man,Italy,5-10 years,"125,000-149,999",Insurance/Risk Assessment,Other,125000.0,149999.0,Europa
+13296,40-44,Man,Germany,20+ years,"125,000-149,999",Computers/Technology,Data Engineer,125000.0,149999.0,Europa
+13346,50-54,Man,United Kingdom of Great Britain and Northern Ireland,20+ years,"200,000-249,999",Computers/Technology,Software Engineer,200000.0,249999.0,Europa
+13356,60-69,Man,United States of America,20+ years,"125,000-149,999",Retail/Sales,Software Engineer,125000.0,149999.0,America
+13358,40-44,Man,United States of America,10-20 years,"150,000-199,999",Insurance/Risk Assessment,Statistician,150000.0,199999.0,America
+13381,30-34,Man,Singapore,1-3 years,"125,000-149,999",Online Service/Internet-based Services,Product Manager,125000.0,149999.0,Asia
+13419,45-49,Man,United States of America,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Program/Project Manager,150000.0,199999.0,America
+13479,25-29,Man,United States of America,5-10 years,"150,000-199,999",Government/Public Service,Data Scientist,150000.0,199999.0,America
+13499,35-39,Man,Hong Kong (S.A.R.),5-10 years,"125,000-149,999",Accounting/Finance,Data Scientist,125000.0,149999.0,Asia
+13519,55-59,Man,United States of America,20+ years,"250,000-299,999",Online Service/Internet-based Services,Data Engineer,250000.0,299999.0,America
+13521,45-49,Man,Australia,20+ years,"150,000-199,999",Government/Public Service,Other,150000.0,199999.0,Oceania
+13602,30-34,Man,United States of America,10-20 years,"125,000-149,999",Medical/Pharmaceutical,Data Scientist,125000.0,149999.0,America
+13608,50-54,Man,Turkey,20+ years,"125,000-149,999",Broadcasting/Communications,Research Scientist,125000.0,149999.0,Asia
+13613,35-39,Man,United States of America,1-3 years,"150,000-199,999",Other,Data Scientist,150000.0,199999.0,America
+13650,35-39,Man,United States of America,10-20 years,"150,000-199,999",Insurance/Risk Assessment,Statistician,150000.0,199999.0,America
+13654,40-44,Man,Israel,10-20 years,"200,000-249,999",Manufacturing/Fabrication,Research Scientist,200000.0,249999.0,Asia
+13662,35-39,Man,Algeria,< 1 years,"200,000-249,999",Government/Public Service,Machine Learning Engineer,200000.0,249999.0,Africa
+13664,50-54,Man,Germany,20+ years,"125,000-149,999",Manufacturing/Fabrication,Data Scientist,125000.0,149999.0,Europa
+13688,40-44,Man,Singapore,20+ years,"125,000-149,999",Manufacturing/Fabrication,Other,125000.0,149999.0,Asia
+13690,60-69,Man,Germany,5-10 years,"300,000-499,999",Medical/Pharmaceutical,Other,300000.0,499999.0,Europa
+13730,25-29,Woman,United States of America,5-10 years,"150,000-199,999",Accounting/Finance,Data Scientist,150000.0,199999.0,America
+13752,40-44,Man,United Arab Emirates,5-10 years,"150,000-199,999",Computers/Technology,Software Engineer,150000.0,199999.0,Asia
+13763,30-34,Man,United States of America,1-3 years,"150,000-199,999",Computers/Technology,Machine Learning Engineer,150000.0,199999.0,America
+13788,40-44,Man,United States of America,10-20 years,"150,000-199,999",Computers/Technology,Data Engineer,150000.0,199999.0,America
+13804,35-39,Man,Germany,10-20 years,"125,000-149,999",Other,Machine Learning Engineer,125000.0,149999.0,Europa
+13807,35-39,Man,United States of America,5-10 years,"150,000-199,999",Insurance/Risk Assessment,Data Scientist,150000.0,199999.0,America
+13847,40-44,Man,Canada,10-20 years,"125,000-149,999",Government/Public Service,Research Scientist,125000.0,149999.0,America
+13851,35-39,Man,United States of America,5-10 years,"250,000-299,999",Computers/Technology,Data Scientist,250000.0,299999.0,America
+13865,30-34,Man,United States of America,3-5 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+13919,45-49,Man,Singapore,5-10 years,"200,000-249,999",Broadcasting/Communications,Other,200000.0,249999.0,Asia
+13969,45-49,Man,United States of America,20+ years,"200,000-249,999",Energy/Mining,Data Scientist,200000.0,249999.0,America
+13985,55-59,Man,Japan,20+ years,"125,000-149,999",Accounting/Finance,Data Scientist,125000.0,149999.0,Asia
+14025,45-49,Man,United States of America,20+ years,"125,000-149,999",Accounting/Finance,Data Engineer,125000.0,149999.0,America
+14030,25-29,Man,India,5-10 years,"150,000-199,999",Computers/Technology,Machine Learning Engineer,150000.0,199999.0,Asia
+14047,35-39,Man,United States of America,10-20 years,"150,000-199,999",Manufacturing/Fabrication,Research Scientist,150000.0,199999.0,America
+14066,30-34,Man,United States of America,5-10 years,"150,000-199,999",Computers/Technology,Data Engineer,150000.0,199999.0,America
+14081,30-34,Man,Japan,5-10 years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,Asia
+14082,55-59,Man,United States of America,20+ years,"300,000-499,999",Online Service/Internet-based Services,Machine Learning Engineer,300000.0,499999.0,America
+14125,22-24,Man,India,3-5 years,">$1,000,000",Non-profit/Service,Data Scientist,1000000.0,1000000.0,Asia
+14168,45-49,Man,United States of America,20+ years,"150,000-199,999",Computers/Technology,Software Engineer,150000.0,199999.0,America
+14184,30-34,Man,United States of America,5-10 years,"150,000-199,999",Accounting/Finance,Business Analyst,150000.0,199999.0,America
+14198,50-54,Man,United States of America,5-10 years,"200,000-249,999",Computers/Technology,Data Scientist,200000.0,249999.0,America
+14205,40-44,Man,United States of America,5-10 years,"125,000-149,999",Other,Data Scientist,125000.0,149999.0,America
+14234,60-69,Man,United States of America,5-10 years,"200,000-249,999",Other,Data Analyst,200000.0,249999.0,America
+14327,35-39,Man,United States of America,10-20 years,"300,000-499,999",Computers/Technology,Machine Learning Engineer,300000.0,499999.0,America
+14359,40-44,Man,United States of America,10-20 years,"300,000-499,999",Computers/Technology,Data Scientist,300000.0,499999.0,America
+14365,35-39,Man,United States of America,20+ years,">$1,000,000",Government/Public Service,Business Analyst,1000000.0,1000000.0,America
+14403,40-44,Woman,United States of America,20+ years,"150,000-199,999",Medical/Pharmaceutical,Data Scientist,150000.0,199999.0,America
+14417,30-34,Man,United States of America,5-10 years,"125,000-149,999",Accounting/Finance,Data Scientist,125000.0,149999.0,America
+14441,60-69,Man,United States of America,20+ years,"150,000-199,999",Other,Other,150000.0,199999.0,America
+14482,45-49,Man,United States of America,10-20 years,"150,000-199,999",Computers/Technology,Business Analyst,150000.0,199999.0,America
+14505,40-44,Man,United States of America,5-10 years,"200,000-249,999",Academics/Education,Other,200000.0,249999.0,America
+14525,50-54,Woman,United States of America,20+ years,"150,000-199,999",Medical/Pharmaceutical,Software Engineer,150000.0,199999.0,America
+14545,25-29,Man,India,5-10 years,"125,000-149,999",Academics/Education,Machine Learning Engineer,125000.0,149999.0,Asia
+14554,45-49,Man,Singapore,3-5 years,"200,000-249,999",Government/Public Service,Other,200000.0,249999.0,Asia
+14557,50-54,Man,United States of America,20+ years,"200,000-249,999",Medical/Pharmaceutical,Data Scientist,200000.0,249999.0,America
+14559,60-69,Man,Australia,20+ years,"150,000-199,999",Government/Public Service,Software Engineer,150000.0,199999.0,Oceania
+14571,30-34,Man,United States of America,5-10 years,"125,000-149,999",Hospitality/Entertainment/Sports,Data Scientist,125000.0,149999.0,America
+14603,30-34,Woman,Australia,< 1 years,"150,000-199,999",Government/Public Service,Program/Project Manager,150000.0,199999.0,Oceania
+14623,55-59,Man,United States of America,1-3 years,"125,000-149,999",Broadcasting/Communications,Other,125000.0,149999.0,America
+14650,55-59,Man,Switzerland,< 1 years,"200,000-249,999",Medical/Pharmaceutical,Other,200000.0,249999.0,Europa
+14682,22-24,Man,United States of America,3-5 years,"125,000-149,999",Online Service/Internet-based Services,Data Scientist,125000.0,149999.0,America
+14748,35-39,Woman,United States of America,5-10 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+14755,50-54,Man,Hong Kong (S.A.R.),20+ years,"$500,000-999,999",Accounting/Finance,Other,500000.0,999999.0,Asia
+14878,60-69,Man,United States of America,20+ years,"200,000-249,999",Manufacturing/Fabrication,Program/Project Manager,200000.0,249999.0,America
+14885,30-34,Man,India,10-20 years,"150,000-199,999",Computers/Technology,Business Analyst,150000.0,199999.0,Asia
+14890,25-29,Man,Czech Republic,10-20 years,"150,000-199,999",Computers/Technology,Software Engineer,150000.0,199999.0,Otros
+14897,60-69,Man,United Arab Emirates,20+ years,"150,000-199,999",Academics/Education,Data Scientist,150000.0,199999.0,Asia
+14973,35-39,Woman,United States of America,10-20 years,"125,000-149,999",Medical/Pharmaceutical,Data Scientist,125000.0,149999.0,America
+14984,40-44,Woman,South Korea,I have never written code,">$1,000,000",Marketing/CRM,Other,1000000.0,1000000.0,Asia
+14985,60-69,Man,United States of America,1-3 years,"125,000-149,999",Other,Other,125000.0,149999.0,America
+15014,55-59,Man,United States of America,20+ years,"250,000-299,999",Computers/Technology,Machine Learning Engineer,250000.0,299999.0,America
+15036,50-54,Man,United Kingdom of Great Britain and Northern Ireland,20+ years,"300,000-499,999",Computers/Technology,Software Engineer,300000.0,499999.0,Europa
+15065,35-39,Man,France,10-20 years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,Europa
+15102,45-49,Man,United States of America,5-10 years,"300,000-499,999",Energy/Mining,Product Manager,300000.0,499999.0,America
+15132,30-34,Man,United States of America,20+ years,"150,000-199,999",Computers/Technology,Software Engineer,150000.0,199999.0,America
+15143,30-34,Prefer not to say,United States of America,5-10 years,"150,000-199,999",Online Service/Internet-based Services,Data Engineer,150000.0,199999.0,America
+15166,45-49,Man,United Kingdom of Great Britain and Northern Ireland,1-3 years,"125,000-149,999",Accounting/Finance,Business Analyst,125000.0,149999.0,Europa
+15185,35-39,Man,United States of America,10-20 years,"125,000-149,999",Online Business/Internet-based Sales,Machine Learning Engineer,125000.0,149999.0,America
+15186,45-49,Man,Canada,5-10 years,"150,000-199,999",Accounting/Finance,Business Analyst,150000.0,199999.0,America
+15210,30-34,Man,United Arab Emirates,5-10 years,"$500,000-999,999",Shipping/Transportation,Data Scientist,500000.0,999999.0,Asia
+15226,40-44,Man,Other,1-3 years,"300,000-499,999",Manufacturing/Fabrication,Other,300000.0,499999.0,Otros
+15269,45-49,Man,Belgium,20+ years,"125,000-149,999",Other,Other,125000.0,149999.0,Europa
+15277,50-54,Man,Spain,20+ years,"200,000-249,999",Accounting/Finance,Program/Project Manager,200000.0,249999.0,Europa
+15283,60-69,Man,Japan,1-3 years,"150,000-199,999",Manufacturing/Fabrication,Program/Project Manager,150000.0,199999.0,Asia
+15285,30-34,Man,Israel,5-10 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,Asia
+15291,25-29,Man,United States of America,3-5 years,"150,000-199,999",Accounting/Finance,Research Scientist,150000.0,199999.0,America
+15305,30-34,Woman,United States of America,10-20 years,"125,000-149,999",Insurance/Risk Assessment,Data Scientist,125000.0,149999.0,America
+15310,55-59,Woman,United States of America,20+ years,"200,000-249,999",Accounting/Finance,Data Scientist,200000.0,249999.0,America
+15318,45-49,Prefer not to say,Australia,< 1 years,"250,000-299,999",Accounting/Finance,Product Manager,250000.0,299999.0,Oceania
+15342,40-44,Man,United States of America,20+ years,"125,000-149,999",Military/Security/Defense,Research Scientist,125000.0,149999.0,America
+15361,45-49,Man,Other,10-20 years,"125,000-149,999",Other,Data Scientist,125000.0,149999.0,Otros
+15364,22-24,Man,United States of America,5-10 years,"150,000-199,999",Online Service/Internet-based Services,Data Scientist,150000.0,199999.0,America
+15366,55-59,Man,Indonesia,20+ years,">$1,000,000",Computers/Technology,Data Scientist,1000000.0,1000000.0,Asia
+15381,55-59,Man,United States of America,20+ years,"125,000-149,999",Academics/Education,Data Scientist,125000.0,149999.0,America
+15391,60-69,Man,Other,10-20 years,"150,000-199,999",Insurance/Risk Assessment,Program/Project Manager,150000.0,199999.0,Otros
+15396,45-49,Man,United States of America,10-20 years,"150,000-199,999",Other,Data Scientist,150000.0,199999.0,America
+15418,25-29,Man,United States of America,5-10 years,"150,000-199,999",Computers/Technology,Program/Project Manager,150000.0,199999.0,America
+15420,25-29,Man,India,3-5 years,"200,000-249,999",Online Business/Internet-based Sales,Data Scientist,200000.0,249999.0,Asia
+15423,30-34,Woman,United Kingdom of Great Britain and Northern Ireland,5-10 years,"125,000-149,999",Online Business/Internet-based Sales,Machine Learning Engineer,125000.0,149999.0,Europa
+15431,35-39,Man,Germany,10-20 years,"150,000-199,999",Online Service/Internet-based Services,Other,150000.0,199999.0,Europa
+15461,25-29,Man,United States of America,3-5 years,"150,000-199,999",Other,Machine Learning Engineer,150000.0,199999.0,America
+15486,50-54,Man,Switzerland,10-20 years,"150,000-199,999",Academics/Education,Other,150000.0,199999.0,Europa
+15495,30-34,Man,Other,10-20 years,"125,000-149,999",Other,Program/Project Manager,125000.0,149999.0,Otros
+15524,55-59,Man,United States of America,20+ years,"125,000-149,999",Computers/Technology,Program/Project Manager,125000.0,149999.0,America
+15549,25-29,Man,Singapore,3-5 years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,Asia
+15561,45-49,Man,United States of America,10-20 years,"125,000-149,999",Other,Other,125000.0,149999.0,America
+15576,55-59,Man,United States of America,20+ years,"125,000-149,999",Medical/Pharmaceutical,Program/Project Manager,125000.0,149999.0,America
+15580,35-39,Man,United States of America,10-20 years,"125,000-149,999",Computers/Technology,Data Engineer,125000.0,149999.0,America
+15590,40-44,Man,United States of America,10-20 years,"125,000-149,999",Military/Security/Defense,Machine Learning Engineer,125000.0,149999.0,America
+15609,40-44,Man,United States of America,< 1 years,"125,000-149,999",Manufacturing/Fabrication,Program/Project Manager,125000.0,149999.0,America
+15626,30-34,Man,United States of America,3-5 years,"150,000-199,999",Energy/Mining,Data Scientist,150000.0,199999.0,America
+15635,55-59,Man,Germany,1-3 years,"125,000-149,999",Other,Other,125000.0,149999.0,Europa
+15646,35-39,Man,United Arab Emirates,5-10 years,"125,000-149,999",Accounting/Finance,Other,125000.0,149999.0,Asia
+15661,35-39,Man,Singapore,10-20 years,"200,000-249,999",Insurance/Risk Assessment,Research Scientist,200000.0,249999.0,Asia
+15703,18-21,Man,Ukraine,1-3 years,"300,000-499,999",Accounting/Finance,Data Scientist,300000.0,499999.0,Europa
+15714,40-44,Prefer not to say,United States of America,20+ years,"250,000-299,999",Computers/Technology,Machine Learning Engineer,250000.0,299999.0,America
+15721,45-49,Man,Mexico,20+ years,"125,000-149,999",Other,Data Scientist,125000.0,149999.0,America
+15725,40-44,Man,United States of America,10-20 years,"150,000-199,999",Accounting/Finance,Data Engineer,150000.0,199999.0,America
+15738,40-44,Man,United States of America,5-10 years,"150,000-199,999",Medical/Pharmaceutical,Research Scientist,150000.0,199999.0,America
+15747,40-44,Man,India,10-20 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,Asia
+15792,45-49,Man,Australia,20+ years,"125,000-149,999",Energy/Mining,Data Engineer,125000.0,149999.0,Oceania
+15796,45-49,Woman,United States of America,20+ years,"125,000-149,999",Government/Public Service,Data Analyst,125000.0,149999.0,America
+15865,30-34,Man,United States of America,10-20 years,"250,000-299,999",Computers/Technology,Data Scientist,250000.0,299999.0,America
+15903,25-29,Man,Russia,1-3 years,"150,000-199,999",Computers/Technology,Data Analyst,150000.0,199999.0,Asia
+15907,60-69,Man,United States of America,20+ years,"300,000-499,999",Academics/Education,Research Scientist,300000.0,499999.0,America
+15916,25-29,Man,United States of America,5-10 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+15965,30-34,Man,United States of America,10-20 years,"125,000-149,999",Accounting/Finance,Software Engineer,125000.0,149999.0,America
+15971,35-39,Woman,United States of America,10-20 years,"200,000-249,999",Broadcasting/Communications,Data Scientist,200000.0,249999.0,America
+15987,40-44,Man,United States of America,10-20 years,"125,000-149,999",Online Service/Internet-based Services,Data Scientist,125000.0,149999.0,America
+15988,40-44,Man,United States of America,1-3 years,"250,000-299,999",Medical/Pharmaceutical,Other,250000.0,299999.0,America
+15989,45-49,Man,Australia,20+ years,"150,000-199,999",Accounting/Finance,Other,150000.0,199999.0,Oceania
+16007,30-34,Man,Israel,5-10 years,"150,000-199,999",Online Service/Internet-based Services,Data Scientist,150000.0,199999.0,Asia
+16059,25-29,Man,United States of America,3-5 years,"125,000-149,999",Shipping/Transportation,Data Analyst,125000.0,149999.0,America
+16061,45-49,Man,Germany,10-20 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,Europa
+16098,35-39,Man,China,3-5 years,"125,000-149,999",Shipping/Transportation,Data Scientist,125000.0,149999.0,Asia
+16111,30-34,Man,Canada,5-10 years,"125,000-149,999",Computers/Technology,Machine Learning Engineer,125000.0,149999.0,America
+16168,50-54,Woman,United States of America,20+ years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+16179,25-29,Man,United States of America,5-10 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+16243,45-49,Man,United States of America,20+ years,"300,000-499,999",Online Service/Internet-based Services,Data Engineer,300000.0,499999.0,America
+16289,45-49,Man,United States of America,20+ years,"150,000-199,999",Insurance/Risk Assessment,Research Scientist,150000.0,199999.0,America
+16302,50-54,Man,United States of America,20+ years,"125,000-149,999",Academics/Education,DBA/Database Engineer,125000.0,149999.0,America
+16351,40-44,Man,India,5-10 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,Asia
+16358,30-34,Woman,Taiwan,5-10 years,"150,000-199,999",Broadcasting/Communications,Machine Learning Engineer,150000.0,199999.0,Asia
+16362,35-39,Man,United States of America,5-10 years,"125,000-149,999",Accounting/Finance,Data Scientist,125000.0,149999.0,America
+16364,40-44,Man,Switzerland,20+ years,"125,000-149,999",Computers/Technology,Business Analyst,125000.0,149999.0,Europa
+16366,40-44,Man,United States of America,10-20 years,"125,000-149,999",Government/Public Service,Other,125000.0,149999.0,America
+16392,35-39,Man,United States of America,5-10 years,"250,000-299,999",Energy/Mining,Machine Learning Engineer,250000.0,299999.0,America
+16396,30-34,Man,United States of America,10-20 years,"200,000-249,999",Computers/Technology,Research Scientist,200000.0,249999.0,America
+16423,35-39,Man,United States of America,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Data Engineer,150000.0,199999.0,America
+16432,30-34,Man,United States of America,10-20 years,"125,000-149,999",Medical/Pharmaceutical,Data Scientist,125000.0,149999.0,America
+16455,60-69,Man,United States of America,10-20 years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,America
+16516,40-44,Man,United Kingdom of Great Britain and Northern Ireland,10-20 years,"125,000-149,999",Manufacturing/Fabrication,Machine Learning Engineer,125000.0,149999.0,Europa
+16522,50-54,Man,United States of America,10-20 years,"200,000-249,999",Other,Data Scientist,200000.0,249999.0,America
+16549,50-54,Man,Australia,20+ years,"200,000-249,999",Accounting/Finance,Program/Project Manager,200000.0,249999.0,Oceania
+16594,40-44,Man,Australia,10-20 years,"200,000-249,999",Computers/Technology,Data Scientist,200000.0,249999.0,Oceania
+16603,40-44,Man,United States of America,5-10 years,"125,000-149,999",Online Business/Internet-based Sales,Software Engineer,125000.0,149999.0,America
+16617,40-44,Man,United States of America,3-5 years,"150,000-199,999",Broadcasting/Communications,Program/Project Manager,150000.0,199999.0,America
+16626,35-39,Man,United States of America,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Data Scientist,150000.0,199999.0,America
+16647,55-59,Man,United States of America,10-20 years,"300,000-499,999",Online Service/Internet-based Services,Data Scientist,300000.0,499999.0,America
+16696,45-49,Man,United States of America,20+ years,"150,000-199,999",Government/Public Service,Data Scientist,150000.0,199999.0,America
+16707,35-39,Man,United States of America,1-3 years,"125,000-149,999",Computers/Technology,Other,125000.0,149999.0,America
+16721,70+,Man,United Kingdom of Great Britain and Northern Ireland,I have never written code,"150,000-199,999",Academics/Education,Research Scientist,150000.0,199999.0,Europa
+16762,50-54,Man,United States of America,20+ years,"200,000-249,999",Computers/Technology,Research Scientist,200000.0,249999.0,America
+16768,25-29,Man,Czech Republic,5-10 years,"125,000-149,999",Online Service/Internet-based Services,Software Engineer,125000.0,149999.0,Otros
+16771,35-39,Man,Hong Kong (S.A.R.),10-20 years,"200,000-249,999",Accounting/Finance,Other,200000.0,249999.0,Asia
+16776,40-44,Man,United States of America,3-5 years,"200,000-249,999",Online Service/Internet-based Services,Program/Project Manager,200000.0,249999.0,America
+16781,25-29,Woman,Brazil,5-10 years,"200,000-249,999",Computers/Technology,Software Engineer,200000.0,249999.0,America
+16794,25-29,Man,United States of America,5-10 years,"125,000-149,999",Medical/Pharmaceutical,Data Scientist,125000.0,149999.0,America
+16795,70+,Man,India,20+ years,"150,000-199,999",Online Service/Internet-based Services,Other,150000.0,199999.0,Asia
+16802,30-34,Woman,United States of America,10-20 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+16846,40-44,Man,Switzerland,20+ years,"250,000-299,999",Medical/Pharmaceutical,Statistician,250000.0,299999.0,Europa
+16847,35-39,Man,United States of America,10-20 years,"150,000-199,999",Computers/Technology,Research Scientist,150000.0,199999.0,America
+16854,45-49,Prefer not to say,I do not wish to disclose my location,20+ years,"300,000-499,999",Medical/Pharmaceutical,Other,300000.0,499999.0,Otros
+16858,45-49,Man,Germany,20+ years,"125,000-149,999",Computers/Technology,Data Engineer,125000.0,149999.0,Europa
+16868,35-39,Man,I do not wish to disclose my location,10-20 years,"150,000-199,999",Retail/Sales,Data Scientist,150000.0,199999.0,Otros
+16882,35-39,Man,Nigeria,5-10 years,">$1,000,000",Energy/Mining,Software Engineer,1000000.0,1000000.0,Africa
+16888,50-54,Man,Australia,20+ years,"125,000-149,999",Government/Public Service,Program/Project Manager,125000.0,149999.0,Oceania
+16911,50-54,Man,United States of America,20+ years,"250,000-299,999",Online Service/Internet-based Services,Program/Project Manager,250000.0,299999.0,America
+16951,22-24,Man,Israel,5-10 years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,Asia
+16958,35-39,Man,United States of America,10-20 years,"$500,000-999,999",Accounting/Finance,Program/Project Manager,500000.0,999999.0,America
+17033,25-29,Woman,United States of America,3-5 years,"150,000-199,999",Computers/Technology,Software Engineer,150000.0,199999.0,America
+17061,60-69,Man,Germany,20+ years,"125,000-149,999",Insurance/Risk Assessment,Business Analyst,125000.0,149999.0,Europa
+17069,45-49,Man,India,20+ years,"125,000-149,999",Computers/Technology,Other,125000.0,149999.0,Asia
+17084,50-54,Man,Brazil,20+ years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,America
+17091,40-44,Man,United States of America,20+ years,"200,000-249,999",Medical/Pharmaceutical,Data Scientist,200000.0,249999.0,America
+17117,45-49,Prefer not to say,United States of America,20+ years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,America
+17137,35-39,Man,United States of America,10-20 years,"125,000-149,999",Insurance/Risk Assessment,Data Scientist,125000.0,149999.0,America
+17139,35-39,Man,United States of America,10-20 years,"$500,000-999,999",Computers/Technology,Software Engineer,500000.0,999999.0,America
+17147,50-54,Man,United States of America,3-5 years,"200,000-249,999",Insurance/Risk Assessment,Other,200000.0,249999.0,America
+17176,50-54,Man,Italy,20+ years,"125,000-149,999",Accounting/Finance,Software Engineer,125000.0,149999.0,Europa
+17200,45-49,Man,Canada,10-20 years,"250,000-299,999",Computers/Technology,Machine Learning Engineer,250000.0,299999.0,America
+17239,22-24,Man,Other,I have never written code,">$1,000,000",Computers/Technology,Software Engineer,1000000.0,1000000.0,Otros
+17265,50-54,Man,United States of America,10-20 years,"150,000-199,999",Military/Security/Defense,Research Scientist,150000.0,199999.0,America
+17315,45-49,Man,South Korea,5-10 years,"125,000-149,999",Manufacturing/Fabrication,Business Analyst,125000.0,149999.0,Asia
+17339,55-59,Man,United States of America,20+ years,"125,000-149,999",Online Business/Internet-based Sales,Software Engineer,125000.0,149999.0,America
+17364,45-49,Man,South Korea,20+ years,"250,000-299,999",Computers/Technology,Machine Learning Engineer,250000.0,299999.0,Asia
+17396,25-29,Man,United States of America,5-10 years,"125,000-149,999",Military/Security/Defense,Data Scientist,125000.0,149999.0,America
+17405,45-49,Man,United States of America,20+ years,"150,000-199,999",Broadcasting/Communications,Software Engineer,150000.0,199999.0,America
+17430,40-44,Man,Viet Nam,5-10 years,"150,000-199,999",Computers/Technology,Research Scientist,150000.0,199999.0,Asia
+17435,30-34,Man,United States of America,5-10 years,"250,000-299,999",Accounting/Finance,Data Scientist,250000.0,299999.0,America
+17463,25-29,Man,United Kingdom of Great Britain and Northern Ireland,1-3 years,"125,000-149,999",Accounting/Finance,Data Scientist,125000.0,149999.0,Europa
+17468,25-29,Woman,United States of America,5-10 years,"125,000-149,999",Accounting/Finance,Data Scientist,125000.0,149999.0,America
+17518,30-34,Man,India,5-10 years,">$1,000,000",Accounting/Finance,Product Manager,1000000.0,1000000.0,Asia
+17530,45-49,Man,United States of America,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Data Scientist,150000.0,199999.0,America
+17548,55-59,Man,United States of America,20+ years,"125,000-149,999",Hospitality/Entertainment/Sports,Software Engineer,125000.0,149999.0,America
+17565,55-59,Man,United States of America,5-10 years,"250,000-299,999",Accounting/Finance,Program/Project Manager,250000.0,299999.0,America
+17566,30-34,Man,United States of America,5-10 years,">$1,000,000",Academics/Education,Data Analyst,1000000.0,1000000.0,America
+17605,45-49,Man,United States of America,3-5 years,"300,000-499,999",Accounting/Finance,Other,300000.0,499999.0,America
+17669,45-49,Man,Mexico,< 1 years,"200,000-249,999",Government/Public Service,Other,200000.0,249999.0,America
+17678,25-29,Man,China,5-10 years,"200,000-249,999",Computers/Technology,Software Engineer,200000.0,249999.0,Asia
+17690,30-34,Man,Austria,5-10 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,Europa
+17727,45-49,Man,United Arab Emirates,5-10 years,"125,000-149,999",Academics/Education,Other,125000.0,149999.0,Asia
+17731,35-39,Man,United States of America,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Data Scientist,150000.0,199999.0,America
+17746,35-39,Man,United States of America,10-20 years,"150,000-199,999",Other,Data Scientist,150000.0,199999.0,America
+17875,40-44,Prefer not to say,South Africa,10-20 years,"150,000-199,999",Computers/Technology,Software Engineer,150000.0,199999.0,Africa
+17883,60-69,Woman,United States of America,10-20 years,"250,000-299,999",Medical/Pharmaceutical,Developer Relations/Advocacy,250000.0,299999.0,America
+17923,35-39,Prefer not to say,United States of America,5-10 years,"150,000-199,999",Online Business/Internet-based Sales,Data Engineer,150000.0,199999.0,America
+17925,30-34,Man,United States of America,5-10 years,"150,000-199,999",Accounting/Finance,Data Engineer,150000.0,199999.0,America
+17974,25-29,Woman,United States of America,< 1 years,"125,000-149,999",Medical/Pharmaceutical,Product Manager,125000.0,149999.0,America
+17980,50-54,Man,United States of America,5-10 years,"150,000-199,999",Accounting/Finance,Other,150000.0,199999.0,America
+18027,30-34,Man,Australia,< 1 years,"200,000-249,999",Computers/Technology,Program/Project Manager,200000.0,249999.0,Oceania
+18037,30-34,Man,United States of America,5-10 years,"150,000-199,999",Medical/Pharmaceutical,Research Scientist,150000.0,199999.0,America
+18055,22-24,Man,Other,10-20 years,"150,000-199,999",Computers/Technology,Research Scientist,150000.0,199999.0,Otros
+18077,45-49,Man,United States of America,20+ years,"300,000-499,999",Accounting/Finance,Data Scientist,300000.0,499999.0,America
+18117,45-49,Man,United States of America,5-10 years,"150,000-199,999",Accounting/Finance,Data Analyst,150000.0,199999.0,America
+18178,45-49,Man,United States of America,20+ years,"200,000-249,999",Computers/Technology,Data Scientist,200000.0,249999.0,America
+18229,30-34,Man,United States of America,10-20 years,"125,000-149,999",Academics/Education,Data Scientist,125000.0,149999.0,America
+18240,45-49,Man,United States of America,20+ years,"200,000-249,999",Academics/Education,Product Manager,200000.0,249999.0,America
+18265,40-44,Man,Germany,5-10 years,"125,000-149,999",Computers/Technology,Other,125000.0,149999.0,Europa
+18276,25-29,Man,United States of America,5-10 years,"300,000-499,999",Computers/Technology,Data Engineer,300000.0,499999.0,America
+18280,35-39,Man,United States of America,10-20 years,"300,000-499,999",Medical/Pharmaceutical,Other,300000.0,499999.0,America
+18290,45-49,Woman,United States of America,1-3 years,"150,000-199,999",Computers/Technology,Data Analyst,150000.0,199999.0,America
+18315,45-49,Man,United States of America,20+ years,"125,000-149,999",Accounting/Finance,Data Engineer,125000.0,149999.0,America
+18321,40-44,Man,United States of America,10-20 years,"300,000-499,999",Computers/Technology,Product Manager,300000.0,499999.0,America
+18338,45-49,Man,Netherlands,5-10 years,"300,000-499,999",Online Service/Internet-based Services,Product Manager,300000.0,499999.0,Europa
+18371,30-34,Man,United Kingdom of Great Britain and Northern Ireland,5-10 years,"200,000-249,999",Computers/Technology,Data Scientist,200000.0,249999.0,Europa
+18385,45-49,Man,United Kingdom of Great Britain and Northern Ireland,10-20 years,"125,000-149,999",Computers/Technology,DBA/Database Engineer,125000.0,149999.0,Europa
+18425,22-24,Man,India,3-5 years,">$1,000,000",Computers/Technology,Data Engineer,1000000.0,1000000.0,Asia
+18438,45-49,Man,United States of America,20+ years,"300,000-499,999",Computers/Technology,Software Engineer,300000.0,499999.0,America
+18447,40-44,Man,United States of America,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Product Manager,150000.0,199999.0,America
+18478,45-49,Man,United States of America,20+ years,"200,000-249,999",Computers/Technology,Program/Project Manager,200000.0,249999.0,America
+18484,30-34,Man,Australia,10-20 years,"150,000-199,999",Insurance/Risk Assessment,Software Engineer,150000.0,199999.0,Oceania
+18489,30-34,Man,United States of America,5-10 years,"200,000-249,999",Computers/Technology,Data Analyst,200000.0,249999.0,America
+18556,45-49,Man,Singapore,10-20 years,"300,000-499,999",Accounting/Finance,Other,300000.0,499999.0,Asia
+18591,60-69,Man,Australia,10-20 years,"200,000-249,999",Medical/Pharmaceutical,Business Analyst,200000.0,249999.0,Oceania
+18592,50-54,Man,Canada,20+ years,"125,000-149,999",Online Service/Internet-based Services,Software Engineer,125000.0,149999.0,America
+18599,22-24,Man,Other,3-5 years,"200,000-249,999",Accounting/Finance,Data Scientist,200000.0,249999.0,Otros
+18649,35-39,Man,United Kingdom of Great Britain and Northern Ireland,20+ years,"200,000-249,999",Accounting/Finance,Business Analyst,200000.0,249999.0,Europa
+18655,25-29,Man,United States of America,1-3 years,"125,000-149,999",Accounting/Finance,Data Engineer,125000.0,149999.0,America
+18695,40-44,Woman,South Africa,3-5 years,"250,000-299,999",Accounting/Finance,Data Analyst,250000.0,299999.0,Africa
+18723,55-59,Man,Norway,20+ years,"150,000-199,999",Medical/Pharmaceutical,Machine Learning Engineer,150000.0,199999.0,Europa
+18779,30-34,Man,United States of America,5-10 years,"300,000-499,999",Medical/Pharmaceutical,Data Scientist,300000.0,499999.0,America
+18786,45-49,Man,United States of America,20+ years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,America
+18792,22-24,Man,India,5-10 years,"150,000-199,999",Computers/Technology,Software Engineer,150000.0,199999.0,Asia
+18793,40-44,Man,United States of America,5-10 years,"125,000-149,999",Marketing/CRM,Data Scientist,125000.0,149999.0,America
+18844,60-69,Man,Switzerland,20+ years,"150,000-199,999",Computers/Technology,Other,150000.0,199999.0,Europa
+18863,40-44,Man,Mexico,5-10 years,"125,000-149,999",Academics/Education,Research Scientist,125000.0,149999.0,America
+18891,35-39,Man,India,1-3 years,"150,000-199,999",Computers/Technology,Product Manager,150000.0,199999.0,Asia
+18897,40-44,Man,Spain,10-20 years,"125,000-149,999",Online Service/Internet-based Services,Other,125000.0,149999.0,Europa
+18916,50-54,Man,South Korea,20+ years,"125,000-149,999",Government/Public Service,Program/Project Manager,125000.0,149999.0,Asia
+18951,25-29,Woman,Denmark,< 1 years,"125,000-149,999",Accounting/Finance,Business Analyst,125000.0,149999.0,Europa
+18971,70+,Prefer not to say,India,20+ years,"200,000-249,999",Medical/Pharmaceutical,Developer Relations/Advocacy,200000.0,249999.0,Asia
+19008,35-39,Man,United States of America,10-20 years,"250,000-299,999",Computers/Technology,Data Scientist,250000.0,299999.0,America
+19025,45-49,Man,Singapore,20+ years,"150,000-199,999",Academics/Education,Statistician,150000.0,199999.0,Asia
+19049,25-29,Man,United States of America,1-3 years,"125,000-149,999",Energy/Mining,Other,125000.0,149999.0,America
+19055,18-21,Man,India,5-10 years,"200,000-249,999",Academics/Education,Business Analyst,200000.0,249999.0,Asia
+19113,40-44,Man,United States of America,10-20 years,">$1,000,000",Accounting/Finance,Data Scientist,1000000.0,1000000.0,America
+19116,40-44,Man,Israel,10-20 years,"125,000-149,999",Online Service/Internet-based Services,Data Scientist,125000.0,149999.0,Asia
+19135,50-54,Man,Poland,20+ years,"200,000-249,999",Academics/Education,Research Scientist,200000.0,249999.0,Otros
+19197,30-34,Man,Spain,1-3 years,"150,000-199,999",Computers/Technology,Machine Learning Engineer,150000.0,199999.0,Europa
+19216,30-34,Man,Australia,1-3 years,"150,000-199,999",Online Service/Internet-based Services,DBA/Database Engineer,150000.0,199999.0,Oceania
+19242,55-59,Man,United States of America,20+ years,"150,000-199,999",Shipping/Transportation,Software Engineer,150000.0,199999.0,America
+19245,45-49,Man,United States of America,20+ years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,America
+19253,60-69,Man,Australia,20+ years,"125,000-149,999",Academics/Education,Research Scientist,125000.0,149999.0,Oceania
+19273,35-39,Man,United States of America,10-20 years,"150,000-199,999",Computers/Technology,Product Manager,150000.0,199999.0,America
+19305,30-34,Man,Australia,3-5 years,"125,000-149,999",Accounting/Finance,Data Analyst,125000.0,149999.0,Oceania
+19331,30-34,Man,United States of America,5-10 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+19341,55-59,Man,Netherlands,10-20 years,"150,000-199,999",Other,Other,150000.0,199999.0,Europa
+19347,25-29,Woman,United States of America,5-10 years,"150,000-199,999",Manufacturing/Fabrication,Machine Learning Engineer,150000.0,199999.0,America
+19352,50-54,Man,Australia,< 1 years,"$500,000-999,999",Medical/Pharmaceutical,Other,500000.0,999999.0,Oceania
+19396,40-44,Man,Malaysia,10-20 years,"125,000-149,999",Marketing/CRM,Data Scientist,125000.0,149999.0,Asia
+19413,35-39,Prefer not to say,China,10-20 years,"150,000-199,999",Online Service/Internet-based Services,Data Scientist,150000.0,199999.0,Asia
+19460,22-24,Woman,United States of America,< 1 years,"125,000-149,999",Marketing/CRM,Product Manager,125000.0,149999.0,America
+19474,35-39,Man,United States of America,10-20 years,"200,000-249,999",Computers/Technology,Data Scientist,200000.0,249999.0,America
+19530,30-34,Woman,United States of America,10-20 years,"200,000-249,999",Other,Data Scientist,200000.0,249999.0,America
+19554,45-49,Man,Sweden,20+ years,"150,000-199,999",Shipping/Transportation,Data Engineer,150000.0,199999.0,Europa
+19556,40-44,Man,United States of America,20+ years,"150,000-199,999",Hospitality/Entertainment/Sports,Data Scientist,150000.0,199999.0,America
+19571,30-34,Man,United States of America,5-10 years,"200,000-249,999",Other,Data Scientist,200000.0,249999.0,America
+19574,35-39,Man,India,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Machine Learning Engineer,150000.0,199999.0,Asia
+19577,45-49,Man,Brazil,20+ years,"250,000-299,999",Accounting/Finance,Software Engineer,250000.0,299999.0,America
+19639,55-59,Man,Israel,20+ years,"150,000-199,999",Other,Research Scientist,150000.0,199999.0,Asia
+19644,45-49,Man,India,3-5 years,"150,000-199,999",Hospitality/Entertainment/Sports,Program/Project Manager,150000.0,199999.0,Asia
+19650,50-54,Man,India,10-20 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,Asia
+19655,40-44,Man,France,10-20 years,"125,000-149,999",Retail/Sales,Data Engineer,125000.0,149999.0,Europa
+19661,70+,Man,United States of America,10-20 years,"150,000-199,999",Non-profit/Service,Other,150000.0,199999.0,America
+19663,25-29,Man,Israel,1-3 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,Asia
+19664,60-69,Man,France,20+ years,"150,000-199,999",Government/Public Service,Software Engineer,150000.0,199999.0,Europa
+19669,40-44,Man,India,5-10 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,Asia
+19698,40-44,Man,United States of America,5-10 years,"125,000-149,999",Other,Other,125000.0,149999.0,America
+19702,60-69,Man,United States of America,20+ years,"200,000-249,999",Computers/Technology,Developer Relations/Advocacy,200000.0,249999.0,America
+19711,30-34,Man,Israel,1-3 years,"150,000-199,999",Insurance/Risk Assessment,Data Scientist,150000.0,199999.0,Asia
+19716,25-29,Woman,United States of America,3-5 years,"150,000-199,999",Accounting/Finance,Data Scientist,150000.0,199999.0,America
+19719,70+,Man,United States of America,10-20 years,"125,000-149,999",Medical/Pharmaceutical,Data Scientist,125000.0,149999.0,America
+19724,60-69,Man,Denmark,3-5 years,"125,000-149,999",Computers/Technology,Other,125000.0,149999.0,Europa
+19729,45-49,Man,Russia,20+ years,"125,000-149,999",Insurance/Risk Assessment,Program/Project Manager,125000.0,149999.0,Asia
+19783,40-44,Man,United States of America,1-3 years,"300,000-499,999",Computers/Technology,Research Scientist,300000.0,499999.0,America
+19828,50-54,Man,United States of America,10-20 years,"250,000-299,999",Accounting/Finance,Data Scientist,250000.0,299999.0,America
+19902,22-24,Prefer to self-describe,Other,3-5 years,">$1,000,000",Other,Other,1000000.0,1000000.0,Otros
+19921,35-39,Man,United States of America,5-10 years,"150,000-199,999",Accounting/Finance,Software Engineer,150000.0,199999.0,America
+19936,60-69,Man,United States of America,20+ years,"200,000-249,999",Medical/Pharmaceutical,Program/Project Manager,200000.0,249999.0,America
+19944,40-44,Man,Israel,< 1 years,">$1,000,000",Computers/Technology,Product Manager,1000000.0,1000000.0,Asia
+19949,35-39,Man,United States of America,5-10 years,"150,000-199,999",Medical/Pharmaceutical,Other,150000.0,199999.0,America
+19989,40-44,Man,Switzerland,20+ years,"150,000-199,999",Other,Program/Project Manager,150000.0,199999.0,Europa
+19998,35-39,Man,Germany,< 1 years,">$1,000,000",Online Service/Internet-based Services,Data Analyst,1000000.0,1000000.0,Europa
+20118,45-49,Man,United States of America,10-20 years,"$500,000-999,999",Computers/Technology,Other,500000.0,999999.0,America
+20138,55-59,Woman,United States of America,20+ years,"150,000-199,999",Computers/Technology,Program/Project Manager,150000.0,199999.0,America
+20215,18-21,Man,United States of America,1-3 years,"150,000-199,999",Computers/Technology,Machine Learning Engineer,150000.0,199999.0,America
+20226,45-49,Man,Turkey,10-20 years,"125,000-149,999",Accounting/Finance,Data Scientist,125000.0,149999.0,Asia
+20231,70+,Man,United States of America,10-20 years,"125,000-149,999",Other,Software Engineer,125000.0,149999.0,America
+20279,30-34,Man,India,10-20 years,"125,000-149,999",Insurance/Risk Assessment,Business Analyst,125000.0,149999.0,Asia
+20301,35-39,Man,United States of America,5-10 years,"200,000-249,999",Computers/Technology,Machine Learning Engineer,200000.0,249999.0,America
+20310,25-29,Man,United States of America,10-20 years,">$1,000,000",Online Business/Internet-based Sales,Software Engineer,1000000.0,1000000.0,America
+20339,18-21,Man,India,1-3 years,">$1,000,000",Academics/Education,Data Scientist,1000000.0,1000000.0,Asia
+20351,45-49,Man,United States of America,20+ years,"125,000-149,999",Medical/Pharmaceutical,Data Engineer,125000.0,149999.0,America
+20370,60-69,Man,United States of America,20+ years,"125,000-149,999",Accounting/Finance,Program/Project Manager,125000.0,149999.0,America
+20408,30-34,Man,India,5-10 years,"300,000-499,999",Online Business/Internet-based Sales,Software Engineer,300000.0,499999.0,Asia
+20416,55-59,Man,United States of America,20+ years,"150,000-199,999",Other,Data Scientist,150000.0,199999.0,America
+20419,60-69,Prefer not to say,United States of America,20+ years,"300,000-499,999",Academics/Education,Other,300000.0,499999.0,America
+20453,22-24,Man,Australia,3-5 years,"125,000-149,999",Accounting/Finance,Data Scientist,125000.0,149999.0,Oceania
+20458,40-44,Woman,Tunisia,5-10 years,"125,000-149,999",Academics/Education,Data Scientist,125000.0,149999.0,Asia
+20464,50-54,Man,United States of America,20+ years,"200,000-249,999",Online Service/Internet-based Services,Software Engineer,200000.0,249999.0,America
+20477,30-34,Man,United Kingdom of Great Britain and Northern Ireland,10-20 years,"150,000-199,999",Academics/Education,Research Scientist,150000.0,199999.0,Europa
+20507,50-54,Man,Australia,20+ years,"125,000-149,999",Accounting/Finance,DBA/Database Engineer,125000.0,149999.0,Oceania
+20547,45-49,Man,Germany,3-5 years,"125,000-149,999",Other,Other,125000.0,149999.0,Europa
+20583,35-39,Man,United States of America,20+ years,"125,000-149,999",Academics/Education,Data Scientist,125000.0,149999.0,America
+20597,25-29,Woman,United States of America,5-10 years,"150,000-199,999",Retail/Sales,Data Scientist,150000.0,199999.0,America
+20598,45-49,Man,Australia,3-5 years,"150,000-199,999",Energy/Mining,Other,150000.0,199999.0,Oceania
+20599,45-49,Man,Argentina,5-10 years,">$1,000,000",Accounting/Finance,Business Analyst,1000000.0,1000000.0,America
+20631,25-29,Woman,Israel,5-10 years,"125,000-149,999",Manufacturing/Fabrication,Machine Learning Engineer,125000.0,149999.0,Asia
+20641,25-29,Man,United States of America,3-5 years,"125,000-149,999",Government/Public Service,Other,125000.0,149999.0,America
+20656,45-49,Man,United States of America,20+ years,"150,000-199,999",Other,Data Scientist,150000.0,199999.0,America
+20680,45-49,Man,Australia,20+ years,"125,000-149,999",Accounting/Finance,Data Engineer,125000.0,149999.0,Oceania
+20685,30-34,Man,United States of America,5-10 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,America
+20730,30-34,Man,United States of America,3-5 years,"300,000-499,999",Online Service/Internet-based Services,Machine Learning Engineer,300000.0,499999.0,America
+20753,25-29,Man,United States of America,10-20 years,"125,000-149,999",Medical/Pharmaceutical,Data Scientist,125000.0,149999.0,America
+20759,40-44,Man,Switzerland,20+ years,">$1,000,000",Computers/Technology,Other,1000000.0,1000000.0,Europa
+20792,30-34,Man,Israel,10-20 years,"125,000-149,999",Medical/Pharmaceutical,Data Scientist,125000.0,149999.0,Asia
+20804,35-39,Man,South Africa,10-20 years,"125,000-149,999",Insurance/Risk Assessment,Software Engineer,125000.0,149999.0,Africa
+20818,45-49,Man,United States of America,20+ years,"125,000-149,999",Marketing/CRM,Data Analyst,125000.0,149999.0,America
+20836,40-44,Woman,South Africa,5-10 years,"$500,000-999,999",Insurance/Risk Assessment,Data Analyst,500000.0,999999.0,Africa
+20864,35-39,Man,Israel,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Machine Learning Engineer,150000.0,199999.0,Asia
+20865,30-34,Woman,United States of America,10-20 years,"150,000-199,999",Other,Data Scientist,150000.0,199999.0,America
+20868,55-59,Man,South Korea,20+ years,"125,000-149,999",Military/Security/Defense,Program/Project Manager,125000.0,149999.0,Asia
+20871,45-49,Man,Hong Kong (S.A.R.),5-10 years,"150,000-199,999",Accounting/Finance,Program/Project Manager,150000.0,199999.0,Asia
+20880,45-49,Man,United States of America,20+ years,"125,000-149,999",Accounting/Finance,Data Scientist,125000.0,149999.0,America
+20923,50-54,Man,Indonesia,20+ years,"$500,000-999,999",Academics/Education,Data Scientist,500000.0,999999.0,Asia
+20933,55-59,Man,United States of America,20+ years,"125,000-149,999",Academics/Education,Research Scientist,125000.0,149999.0,America
+20943,30-34,Woman,Australia,10-20 years,"125,000-149,999",Online Business/Internet-based Sales,Data Scientist,125000.0,149999.0,Oceania
+20955,55-59,Man,United States of America,3-5 years,"300,000-499,999",Military/Security/Defense,Data Scientist,300000.0,499999.0,America
+20969,30-34,Man,United States of America,5-10 years,"200,000-249,999",Online Service/Internet-based Services,Machine Learning Engineer,200000.0,249999.0,America
+20987,18-21,Man,United States of America,1-3 years,"$500,000-999,999",Academics/Education,Research Scientist,500000.0,999999.0,America
+20992,55-59,Man,United States of America,10-20 years,"125,000-149,999",Computers/Technology,Program/Project Manager,125000.0,149999.0,America
+21007,55-59,Woman,India,10-20 years,"200,000-249,999",Manufacturing/Fabrication,Program/Project Manager,200000.0,249999.0,Asia
+21020,40-44,Man,United States of America,10-20 years,"200,000-249,999",Computers/Technology,Other,200000.0,249999.0,America
+21037,35-39,Man,United States of America,10-20 years,"300,000-499,999",Accounting/Finance,Data Scientist,300000.0,499999.0,America
+21048,40-44,Man,India,20+ years,"200,000-249,999",Hospitality/Entertainment/Sports,Other,200000.0,249999.0,Asia
+21098,35-39,Woman,United States of America,10-20 years,"125,000-149,999",Military/Security/Defense,Data Scientist,125000.0,149999.0,America
+21103,50-54,Man,Canada,5-10 years,"125,000-149,999",Accounting/Finance,Program/Project Manager,125000.0,149999.0,America
+21128,22-24,Man,China,1-3 years,">$1,000,000",Academics/Education,Program/Project Manager,1000000.0,1000000.0,Asia
+21149,55-59,Man,Taiwan,20+ years,"200,000-249,999",Hospitality/Entertainment/Sports,Machine Learning Engineer,200000.0,249999.0,Asia
+21247,40-44,Man,United States of America,20+ years,"200,000-249,999",Computers/Technology,Other,200000.0,249999.0,America
+21299,35-39,Man,United States of America,20+ years,"$500,000-999,999",Accounting/Finance,Machine Learning Engineer,500000.0,999999.0,America
+21303,45-49,Man,United States of America,20+ years,"200,000-249,999",Medical/Pharmaceutical,Software Engineer,200000.0,249999.0,America
+21309,35-39,Man,Spain,20+ years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,Europa
+21416,60-69,Man,United States of America,3-5 years,"150,000-199,999",Online Service/Internet-based Services,Data Scientist,150000.0,199999.0,America
+21417,25-29,Man,China,5-10 years,"150,000-199,999",Computers/Technology,Software Engineer,150000.0,199999.0,Asia
+21425,60-69,Man,United States of America,20+ years,"150,000-199,999",Other,Other,150000.0,199999.0,America
+21427,35-39,Man,United States of America,10-20 years,"150,000-199,999",Retail/Sales,Data Scientist,150000.0,199999.0,America
+21457,45-49,Man,United States of America,10-20 years,"150,000-199,999",Academics/Education,Data Scientist,150000.0,199999.0,America
+21475,25-29,Man,United States of America,5-10 years,"150,000-199,999",Medical/Pharmaceutical,Research Scientist,150000.0,199999.0,America
+21518,55-59,Man,Denmark,10-20 years,"125,000-149,999",Academics/Education,Other,125000.0,149999.0,Europa
+21546,45-49,Man,United States of America,5-10 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+21557,35-39,Man,Netherlands,10-20 years,"150,000-199,999",Other,Other,150000.0,199999.0,Europa
+21561,55-59,Prefer not to say,Germany,5-10 years,"150,000-199,999",Computers/Technology,Research Scientist,150000.0,199999.0,Europa
+21619,45-49,Man,United States of America,20+ years,"300,000-499,999",Accounting/Finance,Research Scientist,300000.0,499999.0,America
+21632,40-44,Man,Poland,< 1 years,"150,000-199,999",Accounting/Finance,DBA/Database Engineer,150000.0,199999.0,Otros
+21659,55-59,Man,United States of America,20+ years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,America
+21681,35-39,Man,Singapore,5-10 years,"125,000-149,999",Marketing/CRM,Data Scientist,125000.0,149999.0,Asia
+21708,60-69,Man,United States of America,20+ years,"150,000-199,999",Online Service/Internet-based Services,Software Engineer,150000.0,199999.0,America
+21715,40-44,Man,United States of America,5-10 years,"150,000-199,999",Computers/Technology,Data Engineer,150000.0,199999.0,America
+21729,40-44,Woman,United States of America,10-20 years,"150,000-199,999",Retail/Sales,Data Scientist,150000.0,199999.0,America
+21755,55-59,Man,United States of America,3-5 years,"$500,000-999,999",Marketing/CRM,Product Manager,500000.0,999999.0,America
+21756,25-29,Man,United States of America,5-10 years,"$500,000-999,999",Other,Machine Learning Engineer,500000.0,999999.0,America
+21821,60-69,Man,United States of America,20+ years,"150,000-199,999",Medical/Pharmaceutical,Research Scientist,150000.0,199999.0,America
+21873,45-49,Man,India,5-10 years,"200,000-249,999",Accounting/Finance,Data Scientist,200000.0,249999.0,Asia
+21913,30-34,Man,United States of America,5-10 years,"125,000-149,999",Medical/Pharmaceutical,Software Engineer,125000.0,149999.0,America
+21965,40-44,Man,United Kingdom of Great Britain and Northern Ireland,20+ years,"125,000-149,999",Government/Public Service,Product Manager,125000.0,149999.0,Europa
+21968,50-54,Man,United States of America,20+ years,"200,000-249,999",Accounting/Finance,Software Engineer,200000.0,249999.0,America
+21990,55-59,Man,Germany,20+ years,"125,000-149,999",Accounting/Finance,Data Scientist,125000.0,149999.0,Europa
+22031,40-44,Man,United States of America,10-20 years,"150,000-199,999",Medical/Pharmaceutical,Data Scientist,150000.0,199999.0,America
+22119,25-29,Man,India,5-10 years,"200,000-249,999",Computers/Technology,Data Scientist,200000.0,249999.0,Asia
+22122,40-44,Man,United States of America,10-20 years,"150,000-199,999",Military/Security/Defense,Program/Project Manager,150000.0,199999.0,America
+22123,40-44,Man,United States of America,1-3 years,"300,000-499,999",Computers/Technology,Product Manager,300000.0,499999.0,America
+22127,50-54,Man,United States of America,20+ years,"250,000-299,999",Other,Machine Learning Engineer,250000.0,299999.0,America
+22178,45-49,Woman,United Kingdom of Great Britain and Northern Ireland,20+ years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,Europa
+22191,40-44,Man,United States of America,10-20 years,"250,000-299,999",Energy/Mining,Program/Project Manager,250000.0,299999.0,America
+22204,50-54,Man,United States of America,20+ years,"150,000-199,999",Insurance/Risk Assessment,Product Manager,150000.0,199999.0,America
+22209,35-39,Man,United States of America,3-5 years,"150,000-199,999",Computers/Technology,Other,150000.0,199999.0,America
+22238,18-21,Man,Russia,1-3 years,">$1,000,000",Academics/Education,Machine Learning Engineer,1000000.0,1000000.0,Asia
+22244,40-44,Man,United States of America,5-10 years,"125,000-149,999",Accounting/Finance,Machine Learning Engineer,125000.0,149999.0,America
+22260,40-44,Man,Taiwan,10-20 years,"250,000-299,999",Manufacturing/Fabrication,Data Scientist,250000.0,299999.0,Asia
+22303,40-44,Man,United States of America,20+ years,"150,000-199,999",Computers/Technology,Software Engineer,150000.0,199999.0,America
+22389,35-39,Woman,United States of America,5-10 years,"150,000-199,999",Online Service/Internet-based Services,Machine Learning Engineer,150000.0,199999.0,America
+22396,50-54,Man,United Kingdom of Great Britain and Northern Ireland,10-20 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,Europa
+22404,30-34,Man,United States of America,5-10 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,America
+22421,50-54,Man,United States of America,5-10 years,"125,000-149,999",Computers/Technology,Program/Project Manager,125000.0,149999.0,America
+22452,55-59,Man,United States of America,20+ years,"150,000-199,999",Other,Program/Project Manager,150000.0,199999.0,America
+22453,45-49,Man,United States of America,20+ years,"300,000-499,999",Online Service/Internet-based Services,Data Scientist,300000.0,499999.0,America
+22459,30-34,Man,United States of America,10-20 years,"$500,000-999,999",Computers/Technology,Data Scientist,500000.0,999999.0,America
+22468,45-49,Man,Russia,10-20 years,">$1,000,000",Computers/Technology,Software Engineer,1000000.0,1000000.0,Asia
+22480,30-34,Man,Japan,10-20 years,"$500,000-999,999",Computers/Technology,Software Engineer,500000.0,999999.0,Asia
+22486,55-59,Man,Japan,20+ years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,Asia
+22512,50-54,Man,Belgium,20+ years,"200,000-249,999",Government/Public Service,Data Engineer,200000.0,249999.0,Europa
+22530,45-49,Man,United States of America,20+ years,"$500,000-999,999",Accounting/Finance,Other,500000.0,999999.0,America
+22562,35-39,Man,United States of America,10-20 years,"300,000-499,999",Computers/Technology,Machine Learning Engineer,300000.0,499999.0,America
+22613,18-21,Man,United States of America,3-5 years,"125,000-149,999",Accounting/Finance,Data Scientist,125000.0,149999.0,America
+22643,25-29,Man,United States of America,1-3 years,"125,000-149,999",Online Service/Internet-based Services,Data Analyst,125000.0,149999.0,America
+22677,40-44,Man,Switzerland,1-3 years,"150,000-199,999",Marketing/CRM,Program/Project Manager,150000.0,199999.0,Europa
+22683,50-54,Man,Netherlands,10-20 years,"125,000-149,999",Government/Public Service,Other,125000.0,149999.0,Europa
+22702,35-39,Man,Nigeria,5-10 years,"200,000-249,999",Other,Data Scientist,200000.0,249999.0,Africa
+22714,35-39,Man,United States of America,5-10 years,"150,000-199,999",Accounting/Finance,Data Scientist,150000.0,199999.0,America
+22870,40-44,Man,Switzerland,10-20 years,"125,000-149,999",Insurance/Risk Assessment,Data Scientist,125000.0,149999.0,Europa
+22905,40-44,Man,United States of America,10-20 years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,America
+22920,25-29,Man,United States of America,5-10 years,"250,000-299,999",Online Service/Internet-based Services,Machine Learning Engineer,250000.0,299999.0,America
+22967,35-39,Man,India,1-3 years,"250,000-299,999",Computers/Technology,Product Manager,250000.0,299999.0,Asia
+23015,45-49,Woman,United States of America,20+ years,"125,000-149,999",Computers/Technology,Data Scientist,125000.0,149999.0,America
+23017,30-34,Man,United States of America,10-20 years,"200,000-249,999",Online Service/Internet-based Services,Data Scientist,200000.0,249999.0,America
+23031,35-39,Man,France,10-20 years,"125,000-149,999",Accounting/Finance,Program/Project Manager,125000.0,149999.0,Europa
+23055,35-39,Man,Australia,5-10 years,"125,000-149,999",Insurance/Risk Assessment,Data Scientist,125000.0,149999.0,Oceania
+23060,50-54,Woman,United States of America,1-3 years,"150,000-199,999",Medical/Pharmaceutical,Research Scientist,150000.0,199999.0,America
+23080,40-44,Man,United States of America,20+ years,"150,000-199,999",Medical/Pharmaceutical,Software Engineer,150000.0,199999.0,America
+23091,50-54,Woman,United States of America,1-3 years,"125,000-149,999",Retail/Sales,Other,125000.0,149999.0,America
+23110,35-39,Woman,United States of America,5-10 years,"150,000-199,999",Computers/Technology,Data Analyst,150000.0,199999.0,America
+23137,30-34,Man,India,5-10 years,"125,000-149,999",Military/Security/Defense,Data Scientist,125000.0,149999.0,Asia
+23139,30-34,Man,United States of America,5-10 years,"150,000-199,999",Insurance/Risk Assessment,Data Scientist,150000.0,199999.0,America
+23184,45-49,Man,United Kingdom of Great Britain and Northern Ireland,3-5 years,"$500,000-999,999",Accounting/Finance,Other,500000.0,999999.0,Europa
+23185,50-54,Man,United Kingdom of Great Britain and Northern Ireland,20+ years,"200,000-249,999",Manufacturing/Fabrication,Data Scientist,200000.0,249999.0,Europa
+23215,35-39,Man,United States of America,20+ years,"200,000-249,999",Accounting/Finance,Data Scientist,200000.0,249999.0,America
+23228,18-21,Woman,India,< 1 years,"200,000-249,999",Computers/Technology,Software Engineer,200000.0,249999.0,Asia
+23230,35-39,Man,Germany,1-3 years,"200,000-249,999",Manufacturing/Fabrication,Program/Project Manager,200000.0,249999.0,Europa
+23234,35-39,Prefer not to say,France,5-10 years,"200,000-249,999",Online Service/Internet-based Services,Machine Learning Engineer,200000.0,249999.0,Europa
+23268,35-39,Man,United States of America,10-20 years,"150,000-199,999",Accounting/Finance,Data Scientist,150000.0,199999.0,America
+23276,50-54,Man,Singapore,20+ years,"300,000-499,999",Computers/Technology,Research Scientist,300000.0,499999.0,Asia
+23294,55-59,Man,United States of America,20+ years,"200,000-249,999",Hospitality/Entertainment/Sports,Software Engineer,200000.0,249999.0,America
+23325,40-44,Man,United States of America,5-10 years,"150,000-199,999",Online Service/Internet-based Services,Machine Learning Engineer,150000.0,199999.0,America
+23351,45-49,Nonbinary,United Kingdom of Great Britain and Northern Ireland,20+ years,"150,000-199,999",Accounting/Finance,Other,150000.0,199999.0,Europa
+23410,50-54,Man,Australia,20+ years,"125,000-149,999",Other,Other,125000.0,149999.0,Oceania
+23490,40-44,Man,United States of America,20+ years,"300,000-499,999",Other,Data Scientist,300000.0,499999.0,America
+23539,60-69,Man,India,20+ years,"150,000-199,999",Retail/Sales,Data Engineer,150000.0,199999.0,Asia
+23599,55-59,Prefer not to say,United States of America,20+ years,">$1,000,000",Computers/Technology,Other,1000000.0,1000000.0,America
+23658,50-54,Man,United States of America,1-3 years,"125,000-149,999",Energy/Mining,Other,125000.0,149999.0,America
+23738,50-54,Man,United States of America,I have never written code,"150,000-199,999",Computers/Technology,Program/Project Manager,150000.0,199999.0,America
+23744,30-34,Man,Canada,3-5 years,"125,000-149,999",Energy/Mining,Product Manager,125000.0,149999.0,America
+23763,40-44,Man,United States of America,1-3 years,"150,000-199,999",Military/Security/Defense,Other,150000.0,199999.0,America
+23765,22-24,Man,India,1-3 years,"300,000-499,999",Accounting/Finance,Software Engineer,300000.0,499999.0,Asia
+23782,50-54,Man,United States of America,10-20 years,"150,000-199,999",Energy/Mining,Data Scientist,150000.0,199999.0,America
+23798,35-39,Man,United States of America,3-5 years,"150,000-199,999",Marketing/CRM,Data Scientist,150000.0,199999.0,America
+23818,45-49,Man,United Kingdom of Great Britain and Northern Ireland,10-20 years,"125,000-149,999",Broadcasting/Communications,Data Scientist,125000.0,149999.0,Europa
+23835,30-34,Man,United States of America,3-5 years,"150,000-199,999",Other,Other,150000.0,199999.0,America
+23850,50-54,Woman,United States of America,1-3 years,"150,000-199,999",Academics/Education,Other,150000.0,199999.0,America
+23877,55-59,Man,United States of America,< 1 years,"200,000-249,999",Online Service/Internet-based Services,DBA/Database Engineer,200000.0,249999.0,America
+23884,35-39,Man,Russia,10-20 years,">$1,000,000",Retail/Sales,Software Engineer,1000000.0,1000000.0,Asia
+23924,35-39,Man,Mexico,10-20 years,"150,000-199,999",Computers/Technology,Data Scientist,150000.0,199999.0,America
+23962,45-49,Man,Germany,20+ years,"125,000-149,999",Medical/Pharmaceutical,Other,125000.0,149999.0,Europa
+23990,30-34,Woman,United States of America,10-20 years,"250,000-299,999",Online Service/Internet-based Services,Data Scientist,250000.0,299999.0,America
+23991,55-59,Man,Denmark,20+ years,"150,000-199,999",Computers/Technology,Other,150000.0,199999.0,Europa
+23993,45-49,Man,United States of America,< 1 years,"125,000-149,999",Manufacturing/Fabrication,Program/Project Manager,125000.0,149999.0,America
+24003,45-49,Man,United States of America,20+ years,"150,000-199,999",Medical/Pharmaceutical,Data Scientist,150000.0,199999.0,America
+24034,45-49,Man,United Kingdom of Great Britain and Northern Ireland,20+ years,"125,000-149,999",Academics/Education,Other,125000.0,149999.0,Europa
+24037,30-34,Man,United States of America,5-10 years,">$1,000,000",Accounting/Finance,Data Scientist,1000000.0,1000000.0,America
+24042,30-34,Man,United Kingdom of Great Britain and Northern Ireland,5-10 years,"200,000-249,999",Computers/Technology,Data Scientist,200000.0,249999.0,Europa
+24059,30-34,Man,Switzerland,10-20 years,"125,000-149,999",Computers/Technology,Machine Learning Engineer,125000.0,149999.0,Europa
+24063,55-59,Man,United States of America,20+ years,"125,000-149,999",Academics/Education,Research Scientist,125000.0,149999.0,America
+24074,30-34,Man,United States of America,10-20 years,">$1,000,000",Accounting/Finance,Other,1000000.0,1000000.0,America
+24127,30-34,Woman,Switzerland,3-5 years,"200,000-249,999",Accounting/Finance,Data Scientist,200000.0,249999.0,Europa
+24147,22-24,Man,India,3-5 years,">$1,000,000",Computers/Technology,Data Scientist,1000000.0,1000000.0,Asia
+24154,40-44,Man,Romania,3-5 years,">$1,000,000",Manufacturing/Fabrication,Business Analyst,1000000.0,1000000.0,Europa
+24220,50-54,Woman,United States of America,10-20 years,"150,000-199,999",Other,Other,150000.0,199999.0,America
+24257,70+,Man,United States of America,20+ years,"150,000-199,999",Manufacturing/Fabrication,Other,150000.0,199999.0,America
+24295,50-54,Man,Brazil,10-20 years,"125,000-149,999",Retail/Sales,Software Engineer,125000.0,149999.0,America
+24298,45-49,Man,Germany,10-20 years,"150,000-199,999",Insurance/Risk Assessment,Other,150000.0,199999.0,Europa
+24372,30-34,Man,United States of America,5-10 years,"300,000-499,999",Computers/Technology,Other,300000.0,499999.0,America
+24380,45-49,Man,United States of America,10-20 years,"300,000-499,999",Computers/Technology,Other,300000.0,499999.0,America
+24383,45-49,Man,United States of America,1-3 years,"150,000-199,999",Academics/Education,Other,150000.0,199999.0,America
+24427,45-49,Man,Switzerland,20+ years,"150,000-199,999",Accounting/Finance,Data Scientist,150000.0,199999.0,Europa
+24460,30-34,Man,Japan,< 1 years,"150,000-199,999",Medical/Pharmaceutical,Other,150000.0,199999.0,Asia
+24465,40-44,Man,United States of America,20+ years,"200,000-249,999",Academics/Education,Research Scientist,200000.0,249999.0,America
+24523,35-39,Woman,India,5-10 years,"150,000-199,999",Manufacturing/Fabrication,Developer Relations/Advocacy,150000.0,199999.0,Asia
+24535,22-24,Man,India,< 1 years,">$1,000,000",Computers/Technology,Data Scientist,1000000.0,1000000.0,Asia
+24565,60-69,Man,Israel,20+ years,"200,000-249,999",Accounting/Finance,Data Scientist,200000.0,249999.0,Asia
+24575,40-44,Man,United States of America,5-10 years,"150,000-199,999",Energy/Mining,Other,150000.0,199999.0,America
+24586,30-34,Man,United States of America,5-10 years,"125,000-149,999",Insurance/Risk Assessment,Machine Learning Engineer,125000.0,149999.0,America
+24622,30-34,Woman,United States of America,5-10 years,"150,000-199,999",Hospitality/Entertainment/Sports,Data Scientist,150000.0,199999.0,America
+24631,45-49,Man,United States of America,20+ years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,America
+24667,60-69,Man,United States of America,5-10 years,"150,000-199,999",Medical/Pharmaceutical,Data Scientist,150000.0,199999.0,America
+24699,55-59,Man,United States of America,I have never written code,"150,000-199,999",Marketing/CRM,Other,150000.0,199999.0,America
+24739,35-39,Man,Germany,10-20 years,"125,000-149,999",Medical/Pharmaceutical,Research Scientist,125000.0,149999.0,Europa
+24762,35-39,Woman,United States of America,3-5 years,"150,000-199,999",Academics/Education,Data Scientist,150000.0,199999.0,America
+24772,45-49,Man,United States of America,10-20 years,"125,000-149,999",Online Service/Internet-based Services,Software Engineer,125000.0,149999.0,America
+24805,25-29,Man,United Arab Emirates,< 1 years,">$1,000,000",Insurance/Risk Assessment,Other,1000000.0,1000000.0,Asia
+24817,30-34,Woman,United States of America,5-10 years,"200,000-249,999",Computers/Technology,Research Scientist,200000.0,249999.0,America
+24887,35-39,Woman,United States of America,3-5 years,"150,000-199,999",Military/Security/Defense,Data Scientist,150000.0,199999.0,America
+24934,50-54,Man,United States of America,I have never written code,"125,000-149,999",Medical/Pharmaceutical,Research Scientist,125000.0,149999.0,America
+24963,35-39,Man,Saudi Arabia,10-20 years,"125,000-149,999",Academics/Education,Data Scientist,125000.0,149999.0,Asia
+24975,35-39,Woman,United States of America,3-5 years,"125,000-149,999",Energy/Mining,Data Scientist,125000.0,149999.0,America
+25033,50-54,Woman,United States of America,10-20 years,"200,000-249,999",Computers/Technology,Machine Learning Engineer,200000.0,249999.0,America
+25044,45-49,Man,Netherlands,20+ years,"250,000-299,999",Insurance/Risk Assessment,Research Scientist,250000.0,299999.0,Europa
+25080,55-59,Man,United States of America,20+ years,"200,000-249,999",Academics/Education,Statistician,200000.0,249999.0,America
+25088,30-34,Man,United States of America,10-20 years,"200,000-249,999",Marketing/CRM,Software Engineer,200000.0,249999.0,America
+25107,30-34,Man,United States of America,10-20 years,"125,000-149,999",Broadcasting/Communications,Data Analyst,125000.0,149999.0,America
+25111,22-24,Man,India,1-3 years,">$1,000,000",Computers/Technology,Software Engineer,1000000.0,1000000.0,Asia
+25126,60-69,Man,United States of America,20+ years,"150,000-199,999",Military/Security/Defense,Other,150000.0,199999.0,America
+25160,35-39,Man,France,10-20 years,"300,000-499,999",Insurance/Risk Assessment,Other,300000.0,499999.0,Europa
+25169,50-54,Woman,United States of America,10-20 years,"150,000-199,999",Accounting/Finance,Data Scientist,150000.0,199999.0,America
+25200,35-39,Man,United States of America,5-10 years,"125,000-149,999",Computers/Technology,Software Engineer,125000.0,149999.0,America
+25205,45-49,Man,Kenya,20+ years,"150,000-199,999",Academics/Education,Data Scientist,150000.0,199999.0,Africa
+25215,35-39,Man,Germany,20+ years,"150,000-199,999",Computers/Technology,Other,150000.0,199999.0,Europa
+25221,18-21,Man,India,I have never written code,"250,000-299,999",Academics/Education,Data Analyst,250000.0,299999.0,Asia
+25284,30-34,Man,Germany,10-20 years,"125,000-149,999",Medical/Pharmaceutical,Data Scientist,125000.0,149999.0,Europa
+25328,40-44,Woman,United States of America,20+ years,">$1,000,000",Online Business/Internet-based Sales,Other,1000000.0,1000000.0,America
+25337,45-49,Man,United States of America,20+ years,"300,000-499,999",Online Service/Internet-based Services,Software Engineer,300000.0,499999.0,America
+25364,25-29,Man,Germany,1-3 years,"$500,000-999,999",Manufacturing/Fabrication,Data Scientist,500000.0,999999.0,Europa
+25382,30-34,Man,India,20+ years,"300,000-499,999",Academics/Education,Research Scientist,300000.0,499999.0,Asia
+25383,40-44,Man,United States of America,10-20 years,"150,000-199,999",Computers/Technology,Data Analyst,150000.0,199999.0,America
+25398,30-34,Woman,United Kingdom of Great Britain and Northern Ireland,3-5 years,"150,000-199,999",Accounting/Finance,Program/Project Manager,150000.0,199999.0,Europa
+25416,18-21,Man,Greece,5-10 years,"250,000-299,999",Other,Software Engineer,250000.0,299999.0,Europa
+25424,35-39,Woman,United States of America,10-20 years,"150,000-199,999",Computers/Technology,Software Engineer,150000.0,199999.0,America
+25449,35-39,Man,Israel,10-20 years,"200,000-249,999",Computers/Technology,Software Engineer,200000.0,249999.0,Asia
+25464,40-44,Man,Israel,10-20 years,"125,000-149,999",Retail/Sales,Data Scientist,125000.0,149999.0,Asia
+25485,25-29,Man,United States of America,5-10 years,"150,000-199,999",Shipping/Transportation,Data Scientist,150000.0,199999.0,America
+25514,35-39,Man,India,1-3 years,"150,000-199,999",Online Service/Internet-based Services,Data Scientist,150000.0,199999.0,Asia
+25544,35-39,Man,United States of America,10-20 years,"200,000-249,999",Online Service/Internet-based Services,Machine Learning Engineer,200000.0,249999.0,America
+25570,25-29,Man,Other,3-5 years,"$500,000-999,999",Computers/Technology,Other,500000.0,999999.0,Otros
+25578,40-44,Man,United Arab Emirates,3-5 years,"200,000-249,999",Accounting/Finance,Product Manager,200000.0,249999.0,Asia
+25613,30-34,Man,Kenya,3-5 years,"300,000-499,999",Medical/Pharmaceutical,Data Scientist,300000.0,499999.0,Africa
+25639,35-39,Man,United States of America,10-20 years,"150,000-199,999",Computers/Technology,Software Engineer,150000.0,199999.0,America
+25648,45-49,Man,Australia,I have never written code,"150,000-199,999",Manufacturing/Fabrication,Other,150000.0,199999.0,Oceania
+25684,50-54,Man,Denmark,20+ years,"150,000-199,999",Other,Research Scientist,150000.0,199999.0,Europa
+25694,55-59,Man,Brazil,20+ years,"150,000-199,999",Other,Other,150000.0,199999.0,America
+25704,50-54,Man,United States of America,20+ years,"150,000-199,999",Retail/Sales,Software Engineer,150000.0,199999.0,America
+25714,55-59,Man,United States of America,20+ years,"200,000-249,999",Non-profit/Service,Other,200000.0,249999.0,America
+25717,25-29,Woman,United States of America,5-10 years,"250,000-299,999",Computers/Technology,Research Scientist,250000.0,299999.0,America
+25721,40-44,Man,United States of America,10-20 years,"200,000-249,999",Insurance/Risk Assessment,Other,200000.0,249999.0,America
+25724,40-44,Man,Israel,20+ years,"125,000-149,999",Military/Security/Defense,Research Scientist,125000.0,149999.0,Asia
+25738,45-49,Man,Japan,1-3 years,"125,000-149,999",Manufacturing/Fabrication,Business Analyst,125000.0,149999.0,Asia
+25750,55-59,Man,Italy,20+ years,"300,000-499,999",Academics/Education,Research Scientist,300000.0,499999.0,Europa
+25753,45-49,Man,United States of America,20+ years,"125,000-149,999",Insurance/Risk Assessment,Software Engineer,125000.0,149999.0,America
+25758,35-39,Man,Denmark,5-10 years,"300,000-499,999",Energy/Mining,Data Scientist,300000.0,499999.0,Europa
+25835,35-39,Prefer not to say,United States of America,10-20 years,"125,000-149,999",Shipping/Transportation,Data Scientist,125000.0,149999.0,America
+25840,50-54,Man,Germany,20+ years,"125,000-149,999",Other,Data Scientist,125000.0,149999.0,Europa
+25846,30-34,Man,United Kingdom of Great Britain and Northern Ireland,5-10 years,"125,000-149,999",Marketing/CRM,Data Scientist,125000.0,149999.0,Europa
+25885,40-44,Man,Japan,1-3 years,"150,000-199,999",Other,Program/Project Manager,150000.0,199999.0,Asia
+25910,55-59,Man,United States of America,20+ years,"150,000-199,999",Shipping/Transportation,Data Scientist,150000.0,199999.0,America
+25911,18-21,Man,India,1-3 years,">$1,000,000",Academics/Education,Data Scientist,1000000.0,1000000.0,Asia
+25914,45-49,Man,United States of America,10-20 years,"200,000-249,999",Accounting/Finance,Product Manager,200000.0,249999.0,America
+25963,60-69,Man,United States of America,20+ years,"300,000-499,999",Academics/Education,Program/Project Manager,300000.0,499999.0,America
